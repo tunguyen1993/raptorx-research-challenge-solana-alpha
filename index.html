@@ -47,7 +47,76 @@
       <img src="./screenshots/00_raptorx_report_history_5_tokens.png" alt="RaptorX Report History 5 Tokens"/>
     </a>
   </div>
-  
+
+    <section class="card" id="gpt61-synthesis">
+      <h2>⚡ GPT-6.1 Institutional Synthesis & Quantitative Execution Playbook (<code>gpt-6.1-terra</code> &amp; <code>gpt-6.1-sol</code>)</h2>
+      <p class="meta">Multi-Model Ensemble Synthesis across all 5 RaptorX REX AI 5.0 Solana Reports &amp; 15 Interrogation Turns</p>
+      <pre class="report-pre">## ⚡ GPT-6.1-Sol Deep Synthesis: Cross-Asset Microstructure Forensics &amp; MEV/Order-Flow Alpha
+
+### Comparative Microstructure &amp; Order-Flow Anomaly Table
+
+| Token | Liquidity-to-Mcap Ratio | Order-Flow vs. Price Divergence Mechanism | Uncirculated / Holder Overhang Risk | Revenue-to-Token-Sink Verification Status | Institutional Conviction Verdict |
+|---|---|---|---|---|---|
+| **$CARDS** | **Not computable:** pool liquidity not supplied. | Raydium CLMM recorded **2,330 buys vs. 1,445 sells**—**61.7% buys** of 3,775 transactions—while price fell **7.08%** in 24h. More buy *tickets* can coexist with net selling by notional if sell tickets are sufficiently larger. | **1.045B** tokens reported non-circulating. The supplied **932.2M / 1.977B** implies approximately **47.2%** circulating, not the reported **46.6%**; unlock timing is unspecified. | Claimed **$75M revenue**; no audited on-chain token sink supplied. | **NEUTRAL-HEDGED** |
+| **$JUP** | Approximately **0.19%** for the **$1.36M primary Meteora DLMM pool**, using an approximately **$735M inferred mcap** from $2.45B TVL × 0.30 mcap/TVL. This is **not** a measure of total market liquidity. | Biconomy and BloFin report **$14.75M combined 24h volume**, approximately **10.8×** the primary pool’s liquidity. CEX turnover may include churn; neither its quality nor executable DLMM depth is established. No price-direction comparison is supplied. | **6.68B** uncirculated from **3.32B / 10B**; the raw report’s **48% circulating / 3.14B remaining** conflicts with those figures. Release timing is unspecified. | TVL is not revenue, and no enforceable revenue-to-token sink is established in the excerpt. | **NEUTRAL-HEDGED** |
+| **$KLED** | **2.1%:** **$138,621** Meteora liquidity against **$6.6M** mcap. | **925 sells vs. 627 buys**—a **298-ticket sell-count deficit**—despite price gains of **7.43%** over 24h and **59.56%** over 7d. Larger average buy tickets, liquidity shifts or trading across venues could reconcile the observations; volumes are not supplied. | **999,790,215 / 1,000,000,000** circulating, reported as **99.98%**; approximately **209,785** tokens remain uncirculated. Holder concentration is not supplied. | No verified revenue-to-token sink supplied. | **LONG-WATCH** |
+| **$STONK** | **4.4%:** **$822,252** tracked liquidity against **$18.6M** mcap. | No buy/sell flow data supplied; the **38.6% drawdown from ATH** does not itself identify current selling pressure. Thin liquidity and concentrated ownership can amplify exits. | Top **50 holders own 48.2%**; non-circulating supply and holder relationships are unspecified. | Claimed **$38,000 daily revenue**, approximately **$14M annualized** and **1.3× P/S if true**; zero verified on-chain buyback, burn or revenue-share sink in the excerpt. | **AVOID/SHORT-BIAS** |
+| **$RAWR** | Approximately **14.1%**, using **$116K** liquidity and an approximately **$825K implied mcap**: $0.03197 × approximately 25.8M tokens. Actual executable depth is not supplied. | Price fell **22.18%** in 24h; Nansen shows **−$2.6K net whale flow over 6h**, across **2 wallets**, with **4 full exits**. The differing windows and limited coverage prevent attributing the price move to those flows. | Full-exit observations raise holder-exit concerns, but holder concentration and uncirculated supply are not supplied. | No revenue-to-token sink established. The proposal describes a **1,000,000 DINO + $35,000 USDC raise**, **$25,000/month** operating allowance and **$60,000 USDC treasury allocation** toward a **$660,000 target**; these do not establish RAWR-holder cash flow. | **AVOID/SHORT-BIAS** |
+
+*Verdicts are research classifications, not evidence of executable trades. In particular, a short bias does not establish borrow availability, hedging capacity or sufficient depth.*
+
+### The 3 Laws of AI Crypto Interrogation — Meta-Alpha
+
+**1. Count is not capital.** Let \(N_b,N_s\) be buy and sell transaction counts and \(\bar q_b,\bar q_s\) their respective average quote-currency ticket sizes. Signed traded notional is
+
+\[
+\Delta Q=N_b\bar q_b-N_s\bar q_s.
+\]
+
+For **CARDS**, \(\Delta Q&lt;0\) is compatible with its buy-count majority if \(\bar q_s/\bar q_b&gt;2{,}330/1{,}445\approx1.61\). For **KLED**, \(\Delta Q&gt;0\) is compatible with its sell-count majority if \(\bar q_b/\bar q_s&gt;925/627\approx1.48\). These are **conditional thresholds, not observed ticket sizes**. Price also depends on available depth and liquidity changes; transaction counts alone neither prove net notional flow nor explain returns. A single-shot report that labels either count imbalance as decisive misses the required follow-up: **venue-matched, time-matched notional and ticket-size distributions**.
+
+**2. Turnover is not executable depth.** For JUP, reported CEX volume divided by primary-pool liquidity is \((\$8.43M+\$6.32M)/\$1.36M\approx10.8\). This compares a **24-hour flow** with a **liquidity stock**; it is not a measure of arbitrage capacity, genuine demand or wash trading. Churn may inflate volume, but the supplied data do not establish that it occurred. Nor does total CLMM/DLMM liquidity specify liquidity at the current price or across the bins traversed by an order. The actionable question is the **size-dependent execution cost**—including fees, price impact and potential MEV—across both venues, not the turnover ratio alone.
+
+**3. Narrative revenue is not token-holder revenue.** Claimed revenue \(R\) supports token value only through a verifiable economic channel: for example, an enforceable fraction \(f\) directed to an SPL-token buyback, burn or holder distribution. The relevant flow would be \(R f\), **not \(R\)**; neither \(R\) nor \(f\) is verified for STONK in the excerpt. RAWR’s proposed raise, operating allowance and treasury allocation are funding and spending figures, not evidence of revenue or a RAWR sink. The **$35,000 USDC** raise component divided by **$25,000/month** is **1.4 months** on a cash-only basis, before considering other resources or commitments. Interrogation must trace contracts, authorities, transfer destinations and actual transactions before assigning token-holder cash flow.
+
+## 📐 GPT-6.1-Terra Quantitative Playbook: Execution Sizing, Slippage Bounds &amp; Falsification Matrix
+
+### Execution Clip-Size &amp; Slippage Budget
+
+**The supplied liquidity figures do not establish actual maximum executable clips.** CLMM/DLMM impact depends on active liquidity along the price path, pool composition, fees and route availability; CARDS has no pool-liquidity figure in the supplied excerpt.
+
+For comparability only, the table uses a **hypothetical full-range, constant-product pool**, with total quoted liquidity split equally between token and USD reserves. Under that model, a USD buy of size \(q\) has average execution impact of \(q/(L/2)\) before fees, where \(L\) is total pool liquidity. Thus the model-implied clips are **0.25% of \(L\)** at 50 bps and **0.75% of \(L\)** at 150 bps. They are **not verified slippage bounds for the named venues**.
+
+| Token | Supplied liquidity | Model clip at 50 bps | Model clip at 150 bps | Proposed TWAP cadence | Primary execution-venue risk |
+|---|---:|---:|---:|---|---|
+| **$CARDS** | Raydium CLMM; amount not supplied | Not computable | Not computable | Determine after a live depth and fee quote | Concentrated liquidity may end or thin across the intended price path. |
+| **$JUP** | $1.36M, primary Meteora DLMM pool | $3,400 | $10,200 | Start at one 50-bps model clip every 15 minutes; re-quote each clip | Active-bin depth is unknown. The cited Biconomy and BloFin volumes total $14.75M—about 10.8× pool liquidity—but turnover is not executable depth. |
+| **$KLED** | $138,621, Meteora | ~$347 | ~$1,040 | Start at one 50-bps model clip every 15 minutes; re-quote each clip | Thin quoted liquidity; positive price action alongside more sell than buy transactions does not establish sufficient buy-side depth. |
+| **$STONK** | $822,252, tracked liquidity | ~$2,056 | ~$6,167 | Start at one 50-bps model clip every 15 minutes; re-quote each clip | Tracked liquidity may not be concentrated in one executable pool; holder concentration adds flow risk. |
+| **$RAWR** | $116K | $290 | $870 | Start at one 50-bps model clip every 15 minutes; re-quote each clip | Thin liquidity and recent exits can make available depth unstable. |
+
+The cadence is an **execution proposal**, not a liquidity guarantee. Before every clip, simulate the actual route including fees; reduce or cancel the clip if the all-in quote exceeds the chosen budget. Splitting an order does not eliminate cumulative impact if liquidity does not replenish.
+
+### Pre-Registered 24-Hour Falsification Matrix
+
+Evaluate these checks against a timestamped baseline at entry; they are **proposed invalidation rules**, not claims about subsequent outcomes.
+
+| Token | Invalidate or pause the thesis within 24 hours if… | Evidence required |
+|---|---|---|
+| **$CARDS** | The claimed revenue-to-token linkage cannot be verified, or a live route cannot meet the selected all-in slippage budget. | Auditable revenue and token-sink transactions; simulated and realized route quotes. The reported $75M revenue claim alone is insufficient. |
+| **$JUP** | Supply reconciliation confirms that the report’s 48% circulating / 3.14B remaining figures are incompatible with the cited 3.32B circulating / 10B maximum, or execution cannot meet budget. | Mint and supply records, plus live depth and route quotes. On the latter baseline, 6.68B is uncirculated. |
+| **$KLED** | The sell-count deficit persists over the next 24 hours **and** verified sell notional exceeds buy notional. | Timestamped transaction counts and USD ticket values; the original 925 sells versus 627 buys establishes a 298-transaction deficit, not a notional imbalance. |
+| **$STONK** | The claimed revenue or a token-directed buyback, burn or revenue-share mechanism remains unverifiable. | Source-of-revenue records and attributable on-chain sink transactions. The ~$14M annualized figure is conditional on the $38,000 daily claim. |
+| **$RAWR** | The proposed funding and operating obligations cannot be reconciled to available, unrestricted cash. | Treasury balances, proposal status and approved commitments. $35,000 against $25,000 monthly operations implies **1.4 months** on those figures alone; the separate $60,000 allocation and $660,000 target must not be treated as available cash without verification. |
+
+### Product Feedback: Blueprint for RaptorX REX AI 6.0
+
+1. **Ticket-size distribution and skewness:** Report buy and sell counts *and* USD notional, median and upper-percentile ticket sizes, distribution skewness, and concentration by wallet over fixed windows. Separate transaction fragmentation from independent economic orders.
+2. **Executable ±2% depth:** Reconstruct CLMM ticks and DLMM bins within ±2% of spot, showing active depth by direction, fees, route-level simulated impact and the largest clip meeting user-selected all-in bps limits. Timestamp the snapshot and flag stale or incomplete pools.
+3. **Verified revenue-to-token sinks:** Link revenue claims to source records and attributable on-chain buyback, burn or revenue-share transactions. Distinguish protocol revenue, treasury receipts and value actually directed to token holders; label unverified claims explicitly.
+4. **Pre-registered 24-hour invalidations:** Let users lock a timestamped baseline, measurable threshold, data source and evaluation window before monitoring begins. Surface pass/fail status, missing data and an immutable audit trail rather than retrofitting explanations after price moves.</pre>
+    </section>
+    
     <section class="card" id="cards">
       <div class="card-header">
         <div>
