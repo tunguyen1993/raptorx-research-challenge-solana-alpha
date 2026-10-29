@@ -1,0 +1,2657 @@
+{
+  "ok": true,
+  "report": {
+    "id": "cmvtauoqi0003kt08qspd2wnj",
+    "userId": "cmvtatm8c0001kz075dqtzks5",
+    "contractAddress": "cardsccumfkoprzxt5vt3ksubxefecnz3h2pd3dkxyjp",
+    "ticker": "CARDS",
+    "projectName": "Collector Crypt",
+    "chain": "solana",
+    "reportType": "crypto",
+    "content": "# Technical Research Report: Collector Crypt ($CARDS)\n\n## 1. What It Is\n\n**Collector Crypt** (ticker: **$CARDS**) is a Solana-based Real World Asset (RWA) protocol that modernizes the collectibles market by tokenizing physical trading cards onto the blockchain. The project's core value proposition centers on bridging the gap between physical collectible authenticity and digital accessibility, allowing users to vault their physical cards securely while trading RWA-backed tokens that represent authenticated ownership.\n\nThe project operates on the **Solana blockchain** with the contract address `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp`. The primary trading pair is **CARDS/USDC** on Raydium's CLMM (Concentrated Liquidity Market Maker) pool, though the token has achieved multi-exchange listings across both decentralized and centralized platforms.\n\nCollector Crypt is categorized by CoinGecko under several notable segments including **Solana Ecosystem**, **Real World Assets (RWA)**, **RWA Protocol**, and **Trading Card RWA Platform**. This classification reflects the project's positioning as a legitimate infrastructure play within the growing RWA sector rather than a purely speculative meme token.\n\nThe platform's flagship offering is a **gacha machine** where users can purchase digital repacks of physical trading cards. According to the project's description on CoinGecko, the platform reports **$75 million in revenue and growing**, which, if accurate, would represent substantial real-world economic activity backing the token. The project's stated mission emphasizes fraud elimination through smart contracts, reduced fees, and instant settlement capabilities for the global collector community.\n\nKey project links include the official website at **collectorcrypt.com**, a dedicated gacha platform at **gacha.collectorcrypt.com**, and an active Twitter presence under the handle **@Collector_Crypt**. The project also maintains a Discord community for user engagement and support. Notably, the project commissioned an independent quarterly token report from **Blockworks**, suggesting a commitment to transparency and professional-grade reporting standards.\n\n---\n\n## 2. Holder Analytics\n\n> **Note:** This section is only applicable to BNB Smart Chain tokens. As Collector Crypt ($CARDS) operates on the Solana blockchain, holder analytics from the standard BNB-focused analytics pipeline are **not applicable**. Data not available for this section.\n\nFor Solana-based holder information, on-chain data can be explored via the project's Solscan page: [https://solscan.io/token/CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp](https://solscan.io/token/CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp)\n\n---\n\n## 3. Safety Analytics\n\n> **Note:** This section is only applicable to BNB Smart Chain tokens. As Collector Crypt ($CARDS) operates on the Solana blockchain, the standard BNB-focused security analytics pipeline is **not applicable**. Data not available for this section.\n\nHowever, it is important to note that CoinGecko displays a **public notice** regarding the token contract, citing data from **Rugcheck.xyz**. The notice states: *\"According to Rugcheck.xyz, the contract creator can make changes to the token contract such as contract metadata, disabling sells, changing fees, unrestrictive minting of more tokens, transferring tokens etc. Exercise caution.\"*\n\nThis represents a **significant risk factor** that investors should carefully evaluate. The ability of the contract creator to modify critical parameters\u2014including the potential to disable sells or mint additional tokens\u2014introduces counterparty risk that is not present in fully immutable or renounced contracts. While this does not confirm malicious intent, it does mean that the project team retains substantial control over the token's mechanics, and users should factor this into their risk assessment.\n\n---\n\n## 4. Community Chatter\n\nThe community sentiment surrounding $CARDS presents a **complex and somewhat polarized picture**, with clear bullish conviction from long-term believers balanced against frustration from shorter-term traders experiencing drawdowns.\n\n### Overall Sentiment Analysis\n\nThe sentiment is **mixed-to-cautiously-bullish**. Long-term advocates express strong conviction in the project's fundamentals and revenue-generating capabilities, while recent price action has created visible frustration among traders who entered at higher levels. The token is currently trading approximately **63% below its all-time high**, which has tested the patience of some community members.\n\n### Key Community Discussions and Trending Topics\n\nSeveral distinct themes dominate the community discourse:\n\n**Revenue and Fundamentals Debate:** Prominent community member @Cryptosheldon expressed strong conviction in the project's valuation potential, stating that *\"the $CARDS FDV should be around $2B+ with these type of numbers\"* in response to the project's clarity on metrics. This suggests that a segment of the community believes the current valuation significantly undervalues the project's real-world revenue generation.\n\n**Price Action Frustration:** There is visible frustration among traders regarding continued downside movement. @Over__Leveraged expressed bewilderment, asking *\"For real how is this token still going down??\"* while @Duhhhduhhhduhhh lamented the timing of a dip: *\"Ofc $Cards dips to .15 while I'm sleeping man.\"* This indicates that recent price weakness has created discomfort among more recent entrants.\n\n**Accusations and Skepticism:** Some community members have raised concerns about token unlocks and team behavior. @emilofff made a pointed criticism: *\"Good job manlets, provided the needed liq for $cards team unlocks. Now it can go back to being useless.\"* This highlights ongoing concerns about supply dynamics and token unlock schedules that some traders view as a headwind.\n\n**Whale Activity Monitoring:** Multiple whale-watching accounts have flagged notable buying activity. @whalewatchalert reported several significant purchases from a \"KOL surveillor\" address, including buys of **$12.47K at $355.54M market cap** and **$26.78K at $352.67M market cap**, as well as a **$14.81K purchase from a \"USELESS whale\" at $351.32M market cap**. @AlphaWhalesX noted that a whale who previously exited $CARDS recently re-entered with a **$1.5K purchase at $137M market cap**, suggesting some sophisticated traders see value at current levels.\n\n**Technical Analysis Discussions:** Some community members are engaging in technical analysis of the token's price charts. @WoogaWoogaWee posted about a potential *\"Cup and Handle\"* pattern forming, indicating that some traders are positioning for a potential upside breakout despite recent weakness.\n\n**Community Events and Giveaways:** The project maintains active community engagement through events and giveaways. @0xNFTdart announced co-hosting an event with funds and $CARDS tokens distributed to participants, while @givenho and @ESMARLINPEA both noted that *\"another dev session is gaining momentum.\"*\n\n### Engagement Metrics and Social Activity\n\nThe project maintains an active Twitter presence with regular updates. A key milestone in community engagement was the release of the **first quarterly token report**, independently compiled by **Blockworks**, which was shared by the official @Collector_Crypt account. This professional-grade reporting initiative appears designed to build institutional credibility and improve transparency with the community.\n\n### Notable Influencer Mentions and Whale Discussions\n\nThe token has attracted attention from cryptocurrency influencers and market commentators. @ourcryptotalk included $CARDS in a comparative analysis of \"Happy Holders Vs Sad Holders 2026,\" listing it among tokens with **242% holder returns**\u2014placing it in the top tier of profitable holdings for the year. Notably, $CARDS outperformed major tokens like $HYPE (223%), $JUST (157%), and $MORPHO (131%) in this comparison, which could serve as a powerful community talking point.\n\n### Caution Flags and Positive Momentum Indicators\n\n**Caution flags** include the ongoing concerns about team unlocks and contract creator capabilities, visible trader frustration over sustained downside, and the token's significant drawdown from all-time highs. The community discourse around \"providing liquidity for unlocks\" suggests that supply overhang remains a concern for some market participants.\n\n**Positive momentum indicators** include the project's real revenue generation ($75M+ reported), the independent Blockworks quarterly report, continued whale accumulation at lower prices, strong year-over-year holder returns (242%), and the project's positioning within the growing RWA sector. The community's passionate defense of the project's fundamentals suggests a resilient holder base that may provide support during drawdowns.\n\n---\n\n## 5. Top Tweets\n\n**@Cryptosheldon:**\n> @Collector_Crypt @bassbuddha This is some serious clarity. Candidly the $CARDS FDV should be around $2B+ with these type of numbers\n\n**@whalewatchalert:**\n> KOL surveillor just bought $26.78K of $CARDS at $352.67M MC \ud83e\udde0\n\n**@ourcryptotalk:**\n> Happy Holders Vs Sad Holders 2026 \ud83d\udc47\n> \n> \ud83d\ude01 Holders:\n> \n> $CARDS : 242%\n> $UB : 241%\n> $HYPE : 223%\n> $JUST : 157%\n> $US : 156%\n> $MORPHO : 131%\n> $PONS : 5053%\n> $PUMP : 103%\n> $NPC : 74%\n> $GEOD : 56%\n> \n> \ud83d\ude22 Holders:\n> \n> $RIVER : 92%\n> $WAL : 79%\n> $ZORA : 78%\n> $SENT : 77%\n> $BERA : 75%\n> $W : 72%\n> $ME : 69%\n> $BAT : 68%\n> $APT : 65%\n> $STRK : 68%\n> $KTA : 66%\n> $RON : 64%\n> $SAHARA : 65%\n> $CKB : 59%\n> $XTZ : 56%\n> $TRUMP : 54%\n> $PI : 54%\n> $IOTA : 53%\n> $H : 53%\n> $IMX : 51%\n> \n> Let us know holding which token made you happy or sad in 2026? \ud83d\udcac\n\n**@Collector_Crypt:**\n> Our first quarterly $CARDS token report is now live.\n> \n> Thank you to Blockworks for putting together an independent look at the quarter and the continued development of the Collector Crypt ecosystem.\n\n**@whalewatchalert:**\n> KOL surveillor just bought $12.47K of $CARDS at $355.54M MC \ud83e\udde0\n\n---\n\n## 6. Coin-O-Metry\n\n| Metric | Value |\n|--------|-------|\n| **Token Price** | $0.140 (CoinGecko) / $0.1398 (DexScreener) |\n| **Market Cap** | $130,475,210 (CoinGecko) / $130,342,743 (DexScreener) |\n| **All-Time High Price** | $0.381443 (September 14, 2025) |\n| **All-Time Low Price** | $0.02121763 (September 1, 2025) |\n| **24-Hour Price Change** | -20.87% |\n| **24-Hour Volume** | $5,950,248 (CoinGecko aggregate) / $3,632,230.85 (DexScreener Raydium) |\n| **Fully Diluted Valuation** | $276,729,432 (CoinGecko) / $279,633,553 (DexScreener) |\n| **Circulating Supply** | 932,239,651.10 CARDS |\n| **Total Supply** | 1,977,219,648.91 CARDS |\n| **Max Supply** | 2,000,000,000 CARDS |\n| **Market Cap / FDV Ratio** | 0.47 |\n| **Launch Date** | August 29, 2025 (pair created Aug 29, 2025) |\n| **Token Age** | Approximately 1 year (at time of data) |\n| **Launchpad** | Data not available |\n| **Contract Address** | `CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp` |\n| **Market Cap Rank** | #225 (CoinGecko) |\n| **Watchlist Users** | 5,806 |\n\n**Contract Address for Copying:**\n```\nCARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp\n```\n\n---\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nCollector Crypt is currently trading at approximately **$0.14**, representing a significant decline from its all-time high of **$0.381443** achieved on September 14, 2025. The token has experienced a **-63.29% drawdown** from peak levels, placing it firmly in a corrective phase. However, the token remains substantially above its all-time low of **$0.0212** from September 1, 2025, representing a **+560% gain** from the absolute bottom.\n\nThe current market capitalization stands at approximately **$130.5 million**, with a fully diluted valuation of roughly **$276.7 million**. The market cap to FDV ratio of **0.47** indicates that a substantial portion of the token supply remains locked or unissued, which could represent future selling pressure as these tokens become available.\n\nThe 24-hour trading range has been relatively wide, with prices fluctuating between **$0.1358 and $0.1834**, reflecting elevated volatility. The token's liquidity pool on Raydium holds approximately **$2.62 million in total liquidity**, which provides a reasonable foundation for trading activity but may be susceptible to slippage during high-volume periods.\n\n### Trading Indicators\n\n**Volume Analysis:** The token has demonstrated robust trading activity, with 24-hour volume of approximately **$5.95 million** across all tracked exchanges. The Raydium CLMM pool specifically recorded **$3.63 million** in 24-hour volume, with transaction counts showing **2,330 buys** versus **1,445 sells** in the last 24 hours. This buy-to-sell ratio of approximately **1.61:1** suggests that despite the price decline, buyers remain active in the market.\n\n**Historical Volume Breakdown:**\n- **5-minute volume:** $3,693\n- **1-hour volume:** $528,877\n- **6-hour volume:** $2,139,943\n- **24-hour volume:** $3,632,231\n\n**Price Change Analysis:**\n- **5-minute change:** -0.03%\n- **1-hour change:** -8.5%\n- **6-hour change:** -12.77%\n- **24-hour change:** -21.09%\n- **7-day change:** -19.26%\n- **14-day change:** -29.00%\n- **30-day change:** -14.12%\n- **60-day change:** -28.68%\n- **200-day change:** +165.03%\n- **1-year change:** -35.66%\n\nThe price data reveals a clear downtrend across multiple timeframes, with the token losing value consistently over the past two weeks. However, the longer-term picture (200-day view) shows the token is still significantly higher than where it was trading approximately seven months ago. The 1-hour price change of -8.5% indicates that selling pressure has accelerated recently, which may warrant close monitoring for potential capitulation or accumulation opportunities.\n\n**Buy/Sell Pressure Analysis:** The DexScreener data shows a total of **3,775 transactions** in the last 24 hours, with **2,330 buys** (61.7%) versus **1,445 sells** (38.3%). This buying pressure in terms of transaction count contrasts sharply with the negative price action, suggesting that either sell orders are larger in size than buy orders, or that market makers are actively selling into buying pressure. This divergence between transaction count and price direction is a noteworthy observation.\n\n### On-chain Metrics\n\n**Supply Distribution:** The token has a maximum supply of **2 billion CARDS**, with a total supply of approximately **1.977 billion** and a circulating supply of approximately **932.2 million**. This means only about **46.6% of the total supply** is currently in circulation, with the remainder either locked, reserved, or scheduled for future release.\n\n**Token Distribution Timeline:**\n- Circulating supply: 932.2M CARDS (46.6%)\n- Non-circulating supply: ~1.045B CARDS (52.4% approximately)\n- Max supply: 2.0B CARDS\n\nThe significant gap between circulating and total supply suggests that token unlocks could be a ongoing source of selling pressure. Community discussions referencing \"team unlocks\" and providing \"liquidity for unlocks\" corroborate this observation.\n\n**Transaction Patterns:** The 24-hour transaction data shows robust activity with a total of 3,775 transactions on the primary Raydium pool alone. The 6-hour window shows 2,245 transactions, indicating that trading activity has been relatively consistent throughout the day rather than concentrated in specific periods.\n\n**Holder Behavior:** While specific holder count data is not available in the provided datasets, the watchlist portfolio users figure of **5,806** on CoinGecko suggests a moderate level of retail interest in tracking the token. The community's active engagement on Twitter and the presence of whale-watching accounts monitoring significant transactions indicate an active and attentive holder base.\n\n### Exchange Listings & Availability\n\nCollector Crypt has achieved **broad exchange availability**, which is a positive indicator for the project's legitimacy and accessibility. The token is listed on multiple centralized and decentralized exchanges:\n\n**Centralized Exchanges:**\n- **OKX** (CARDS/USDT and CARDS/USD pairs)\n- **MEXC** (CARDS/USDT)\n- **LBank** (CARDS/USDT)\n- **BloFin** (CARDS/USDT)\n- **Ourbit** (CARDS/USDT)\n- **DigiFinex** (CARDS/USDT)\n- **KCEX** (CARDS/USDT)\n- **BTSE** (CARDS/USDT)\n\n**Decentralized Exchanges:**\n- **Raydium** (CLMM pools with USDC and SOL)\n- **Meteora** (Multiple pools with USDC and SOL)\n- **Orca** (Pools with USDC and SOL)\n- **PancakeSwap V3 (Solana)** (CARDS/USDC)\n- **Man",
+    "dexData": {
+      "fdv": 279633553,
+      "url": "https://dexscreener.com/solana/hnhpjpjgbg2kwnimtnw8cvbhvk1hfog3rc3kjnyc23td",
+      "info": {
+        "header": "https://cdn.dexscreener.com/cms/images/572d776262a45078bc6ece228e95ee4b2c2e918aafce66fa2fd95c1ba1fe6193?width=1500&height=500&quality=95&format=auto",
+        "socials": [
+          {
+            "url": "https://x.com/Collector_crypt",
+            "type": "twitter"
+          }
+        ],
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/3277f5f414a940e7d009f9cbc9147c6ab25eae6a6cda10e682319f7b6394e328?width=800&height=800&quality=95&format=auto",
+        "websites": [
+          {
+            "url": "https://collectorcrypt.com/",
+            "label": "Website"
+          },
+          {
+            "url": "https://gacha.collectorcrypt.com",
+            "label": "Gacha"
+          }
+        ],
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp?timestamp=1788520200000"
+      },
+      "txns": {
+        "h1": {
+          "buys": 307,
+          "sells": 160
+        },
+        "h6": {
+          "buys": 1387,
+          "sells": 858
+        },
+        "m5": {
+          "buys": 6,
+          "sells": 6
+        },
+        "h24": {
+          "buys": 2330,
+          "sells": 1445
+        }
+      },
+      "dexId": "raydium",
+      "labels": [
+        "CLMM"
+      ],
+      "volume": {
+        "h1": 528877.45,
+        "h6": 2139942.65,
+        "m5": 3693.02,
+        "h24": 3632230.85
+      },
+      "chainId": "solana",
+      "priceUsd": "0.1398",
+      "baseToken": {
+        "name": "Collector Crypt",
+        "symbol": "CARDS",
+        "address": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp"
+      },
+      "liquidity": {
+        "usd": 2624134.71,
+        "base": 13518841,
+        "quote": 733973
+      },
+      "marketCap": 130342743,
+      "quoteToken": {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      },
+      "pairAddress": "HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD",
+      "priceChange": {
+        "h1": -8.5,
+        "h6": -12.77,
+        "m5": -0.03,
+        "h24": -21.09
+      },
+      "priceNative": "0.1398",
+      "pairCreatedAt": 1756493686000
+    },
+    "tweetsData": [
+      {
+        "id": "2095810367238599016",
+        "url": "https://x.com/Farellis_/status/2095810367238599016",
+        "lang": "en",
+        "text": "@DerekKlibingat @DaPonsy Then $cards \ud83d\ude09",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "2990555446",
+          "name": "Farellis",
+          "canDm": true,
+          "location": "Blockchain",
+          "userName": "Farellis_",
+          "username": "Farellis_",
+          "createdAt": "Wed Jan 21 20:22:46 +0000 2015",
+          "followers": 4698,
+          "following": 395,
+          "mediaCount": 1948,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2990555446/1730308656",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 22696,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1859482205313020358"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1928792960365113345/mwqYwb3Z_normal.jpg",
+          "favouritesCount": 48816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "D2theK",
+              "id_str": "1478792886103601153",
+              "indices": [
+                0,
+                15
+              ],
+              "screen_name": "DerekKlibingat"
+            },
+            {
+              "name": "Da Ponsy the infiltrator \ud83d\udcb9\ud83e\uddf2",
+              "id_str": "1793623919993212929",
+              "indices": [
+                16,
+                24
+              ],
+              "screen_name": "DaPonsy"
+            }
+          ]
+        },
+        "createdAt": "Fri Sep 04 09:45:04 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 59,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": "2095809782968152262",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095797490372985187",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1478792886103601153",
+        "inReplyToUsername": "DerekKlibingat"
+      },
+      {
+        "id": "2095808929196548430",
+        "url": "https://x.com/DerekKlibingat/status/2095808929196548430",
+        "lang": "en",
+        "text": "@WatcherGuru Fam, this lease don\u2019t sell your coins for cheap right now \n\nWe have a long ride up ahead of us \n\n$btc $sol $cards",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1478792886103601153",
+          "name": "D2theK",
+          "canDm": false,
+          "location": "West Los Angeles",
+          "userName": "DerekKlibingat",
+          "username": "DerekKlibingat",
+          "createdAt": "Wed Jan 05 18:17:59 +0000 2022",
+          "followers": 4239,
+          "following": 1727,
+          "mediaCount": 4603,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1478792886103601153/1752295682",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 78435,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1868029963133464577/JlAseQ1v_normal.jpg",
+          "favouritesCount": 298285,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Watcher.Guru",
+              "id_str": "1387497871751196672",
+              "indices": [
+                0,
+                12
+              ],
+              "screen_name": "WatcherGuru"
+            }
+          ]
+        },
+        "createdAt": "Fri Sep 04 09:39:21 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 99,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": "2095798636370128909",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095798636370128909",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1387497871751196672",
+        "inReplyToUsername": "WatcherGuru"
+      },
+      {
+        "id": "2095797009491923222",
+        "url": "https://x.com/Over__Leveraged/status/2095797009491923222",
+        "lang": "en",
+        "text": "$Cards wtf .... \nFor real how is this token still going down??",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1739937522090676225",
+          "name": "Over_Leveraged (\ud83d\udd25, \ud83d\udd25)",
+          "canDm": false,
+          "location": "",
+          "userName": "Over__Leveraged",
+          "username": "Over__Leveraged",
+          "createdAt": "Wed Dec 27 09:13:47 +0000 2023",
+          "followers": 629,
+          "following": 335,
+          "mediaCount": 1651,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 13980,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1783218545569996800/525E4YVw_normal.jpg",
+          "favouritesCount": 28649,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 08:51:59 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 156,
+        "quoteCount": 0,
+        "replyCount": 2,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095797009491923222",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095774419125682568",
+        "url": "https://x.com/AlphaWhalesX/status/2095774419125682568",
+        "lang": "en",
+        "text": "This whale previously exited $CARDS and just bought $1.5K again at $137M MC.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1880103658324652032",
+          "name": "Alpha Whales",
+          "canDm": true,
+          "location": "",
+          "userName": "AlphaWhalesX",
+          "username": "AlphaWhalesX",
+          "createdAt": "Fri Jan 17 04:04:25 +0000 2025",
+          "followers": 10744,
+          "following": 5,
+          "mediaCount": 9,
+          "automatedBy": "AlphaAiLabs",
+          "description": "",
+          "isAutomated": true,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1880103658324652032/1786772828",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 37736,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2064328062188327210"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1891088883179487232/9-9qGWee_normal.jpg",
+          "favouritesCount": 2775,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 07:22:13 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 983,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095774419125682568",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095764230406369370",
+        "url": "https://x.com/0xNFTdart/status/2095764230406369370",
+        "lang": "en",
+        "text": "I am co hosting giving out some funds and $cards to participants",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "255734031",
+          "name": "0xNFTdart",
+          "canDm": true,
+          "location": "Albemarle City, NC",
+          "userName": "0xNFTdart",
+          "username": "0xNFTdart",
+          "createdAt": "Mon Feb 21 23:28:05 +0000 2011",
+          "followers": 5691,
+          "following": 6086,
+          "mediaCount": 2158,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/255734031/1634755685",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 11180,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2082896815414792192/7u6fT3X4_normal.jpg",
+          "favouritesCount": 24643,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 06:41:44 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 229,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095764230406369370",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095751997211173207",
+        "url": "https://x.com/emilofff/status/2095751997211173207",
+        "lang": "en",
+        "text": "Good job manlets, provided the needed liq for $cards team unlocks. Now it can go back to being useless",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "758917472846094336",
+          "name": "Emil\ud83d\udfe0ff",
+          "canDm": false,
+          "location": "",
+          "userName": "emilofff",
+          "username": "emilofff",
+          "createdAt": "Fri Jul 29 06:50:00 +0000 2016",
+          "followers": 658,
+          "following": 557,
+          "mediaCount": 197,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/758917472846094336/1763898372",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 1361,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1596210039685058561/cogn6WJ1_normal.jpg",
+          "favouritesCount": 5615,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 05:53:07 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 180,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095751997211173207",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095619247401541953",
+        "url": "https://x.com/sylvaindurig/status/2095619247401541953",
+        "lang": "en",
+        "text": "POV: $CARDS when it will cross 1$.\n\n@Collector_Crypt \u2728",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1386875037228142594",
+          "name": "Sylvaindurig.sol (cc/acc) \ud83c\udfbb",
+          "canDm": true,
+          "location": "Solana Beach, CA",
+          "userName": "sylvaindurig",
+          "username": "sylvaindurig",
+          "createdAt": "Tue Apr 27 02:49:22 +0000 2021",
+          "followers": 8683,
+          "following": 9306,
+          "mediaCount": 8147,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1386875037228142594/1777400457",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 80668,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2093963499714015325"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1978044231143825408/cH6Y5oLo_normal.jpg",
+          "favouritesCount": 180602,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                36,
+                52
+              ],
+              "screen_name": "Collector_Crypt"
+            }
+          ]
+        },
+        "createdAt": "Thu Sep 03 21:05:37 +0000 2026",
+        "likeCount": 7,
+        "viewCount": 311,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095619247401541953",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095584836010262841",
+        "url": "https://x.com/Cryptosheldon/status/2095584836010262841",
+        "lang": "en",
+        "text": "@Collector_Crypt @bassbuddha This is some serious clarity. Candidly the $CARDS FDV should be around $2B+ with these type of numbers",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1937939353243676672",
+          "name": "CryptoSheldon",
+          "canDm": true,
+          "location": "Singapore",
+          "userName": "Cryptosheldon",
+          "username": "Cryptosheldon",
+          "createdAt": "Wed Jun 25 18:22:14 +0000 2025",
+          "followers": 17593,
+          "following": 204,
+          "mediaCount": 3,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1937939353243676672/1753624418",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 115,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1958409418623562149"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1968312455387312128/FQLNjgsR_normal.jpg",
+          "favouritesCount": 159,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                0,
+                16
+              ],
+              "screen_name": "Collector_Crypt"
+            },
+            {
+              "name": "bass\ud83c\udd71\ufe0fuddha",
+              "id_str": "1461500723225575493",
+              "indices": [
+                17,
+                28
+              ],
+              "screen_name": "bassbuddha"
+            }
+          ]
+        },
+        "createdAt": "Thu Sep 03 18:48:53 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 215,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": "2095545902530269259",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095545902530269259",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1488914036607623170",
+        "inReplyToUsername": "Collector_Crypt"
+      },
+      {
+        "id": "2095550145085702540",
+        "url": "https://x.com/ourcryptotalk/status/2095550145085702540",
+        "lang": "en",
+        "text": "Happy Holders Vs Sad Holders 2026 \ud83d\udc47\n\n\ud83d\ude01 Holders:\n\n$CARDS : 242%\n$UB : 241%\n$HYPE : 223%\n$JUST : 157%\n$US : 156%\n$MORPHO : 131%\n$PONS : 5053%\n$PUMP : 103%\n$NPC : 74%\n$GEOD : 56%\n\n\ud83d\ude22 Holders:\n\n$RIVER : 92%\n$WAL : 79%\n$ZORA : 78%\n$SENT : 77%\n$BERA : 75%\n$W : 72%\n$ME : 69%\n$BAT : 68%\n$APT : 65%\n$STRK : 68%\n$KTA : 66%\n$RON : 64%\n$SAHARA : 65%\n$CKB : 59%\n$XTZ : 56%\n$TRUMP : 54%\n$PI : 54%\n$IOTA : 53%\n$H : 53%\n$IMX : 51%\n\nLet us know holding which token made you happy or sad in 2026? \ud83d\udcac",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1457232952996237317",
+          "name": "Our Crypto Talk",
+          "canDm": true,
+          "location": "",
+          "userName": "ourcryptotalk",
+          "username": "ourcryptotalk",
+          "createdAt": "Sun Nov 07 06:26:57 +0000 2021",
+          "followers": 81022,
+          "following": 1441,
+          "mediaCount": 12427,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1457232952996237317/1758566866",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 37927,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1974090118970716633"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1970198343205683201/7pvHl7Qa_normal.jpg",
+          "favouritesCount": 54932,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 16:31:02 +0000 2026",
+        "likeCount": 66,
+        "viewCount": 9102,
+        "quoteCount": 0,
+        "replyCount": 31,
+        "inReplyToId": null,
+        "retweetCount": 8,
+        "bookmarkCount": 13,
+        "conversationId": "2095550145085702540",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095545902530269259",
+        "url": "https://x.com/Collector_Crypt/status/2095545902530269259",
+        "lang": "en",
+        "text": "Our first quarterly $CARDS token report is now live.\n\nThank you to Blockworks for putting together an independent look at the quarter and the continued development of the Collector Crypt ecosystem.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1488914036607623170",
+          "name": "Collector Crypt",
+          "canDm": true,
+          "location": "\ud83d\udc49",
+          "userName": "Collector_Crypt",
+          "username": "Collector_Crypt",
+          "createdAt": "Wed Feb 02 16:36:03 +0000 2022",
+          "followers": 95052,
+          "following": 1810,
+          "mediaCount": 1316,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1488914036607623170/1778784933",
+          "isTranslator": false,
+          "verifiedType": "Business",
+          "statusesCount": 6877,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2094501457705759175"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2076718312227008512/4IxxtPj7_normal.jpg",
+          "favouritesCount": 21023,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 16:14:11 +0000 2026",
+        "likeCount": 244,
+        "viewCount": 30062,
+        "quoteCount": 5,
+        "replyCount": 30,
+        "inReplyToId": null,
+        "retweetCount": 35,
+        "bookmarkCount": 45,
+        "conversationId": "2095545902530269259",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095518911324160500",
+        "url": "https://x.com/jesii_hot/status/2095518911324160500",
+        "lang": "en",
+        "text": "the discussion is moving beyond the basics.   $CARDS   https://t.co/TNC1Y7e7IV",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "192115113",
+          "name": "jesica ramirez",
+          "canDm": false,
+          "location": "",
+          "userName": "jesii_hot",
+          "username": "jesii_hot",
+          "createdAt": "Sat Sep 18 06:34:18 +0000 2010",
+          "followers": 56,
+          "following": 60,
+          "mediaCount": 7,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 50,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2088028498061676544/1vCxR_ig_normal.jpg",
+          "favouritesCount": 6,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/TNC1Y7e7IV",
+              "indices": [
+                55,
+                78
+              ],
+              "display_url": "puep.fun/?CARDSccUMFKoP\u2026",
+              "expanded_url": "https://puep.fun/?CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp?v=1"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 14:26:55 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 36,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 1,
+        "bookmarkCount": 0,
+        "conversationId": "2095518911324160500",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095491009052311871",
+        "url": "https://x.com/WoogaWoogaWee/status/2095491009052311871",
+        "lang": "en",
+        "text": "$CARDS Cup and Handle perhaps https://t.co/SUf7ggLVpA",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2026867274213203969",
+          "name": "Allan Chambers",
+          "canDm": false,
+          "location": "",
+          "userName": "WoogaWoogaWee",
+          "username": "WoogaWoogaWee",
+          "createdAt": "Thu Feb 26 03:50:46 +0000 2026",
+          "followers": 405,
+          "following": 1837,
+          "mediaCount": 1010,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2026867274213203969/1772078151",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 10195,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2027536467916939726"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2086929196253646848/1kqSPOIJ_normal.jpg",
+          "favouritesCount": 16277,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 12:36:03 +0000 2026",
+        "likeCount": 3,
+        "viewCount": 98,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095491009052311871",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095484099385336224",
+        "url": "https://x.com/umbasxbt/status/2095484099385336224",
+        "lang": "en",
+        "text": "@sylvaindurig @Collector_Crypt I love collector crypt so much for everything \n\nBig advocate of $CARDS as well",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1371303661167579140",
+          "name": "UM\u20bfA$",
+          "canDm": false,
+          "location": "\ud83c\udde8\ud83c\uddfe ",
+          "userName": "umbasxbt",
+          "username": "umbasxbt",
+          "createdAt": "Mon Mar 15 03:34:12 +0000 2021",
+          "followers": 8067,
+          "following": 8354,
+          "mediaCount": 164,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1371303661167579140/1749510695",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 1340,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2052850374990844110"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2091294361824710656/TRpsYUHD_normal.jpg",
+          "favouritesCount": 20817,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Sylvaindurig.sol (cc/acc) \ud83c\udfbb",
+              "id_str": "1386875037228142594",
+              "indices": [
+                0,
+                13
+              ],
+              "screen_name": "sylvaindurig"
+            },
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                14,
+                30
+              ],
+              "screen_name": "Collector_Crypt"
+            }
+          ]
+        },
+        "createdAt": "Thu Sep 03 12:08:36 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 89,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": "2095477083753361630",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095458974195655109",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1386875037228142594",
+        "inReplyToUsername": "sylvaindurig"
+      },
+      {
+        "id": "2095478969260703794",
+        "url": "https://x.com/Duhhhduhhhduhhh/status/2095478969260703794",
+        "lang": "en",
+        "text": "Ofc $Cards dips to .15 while I\u2019m sleeping man\n\nDon\u2019t work a 6am job kids",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2061500390990856192",
+          "name": "D3X",
+          "canDm": false,
+          "location": "The Hole ",
+          "userName": "Duhhhduhhhduhhh",
+          "username": "Duhhhduhhhduhhh",
+          "createdAt": "Mon Jun 01 17:29:29 +0000 2026",
+          "followers": 123,
+          "following": 337,
+          "mediaCount": 186,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2061500390990856192/1780432957",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 1128,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2069243413132701704"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2061500958341804032/YSn_4ORp_normal.jpg",
+          "favouritesCount": 2663,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 11:48:13 +0000 2026",
+        "likeCount": 7,
+        "viewCount": 215,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095478969260703794",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095478027052294469",
+        "url": "https://x.com/whalewatchalert/status/2095478027052294469",
+        "lang": "en",
+        "text": "KOL surveillor just bought $12.47K of $CARDS at $355.54M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 11:44:28 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 7608,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095478027052294469",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095476697487294751",
+        "url": "https://x.com/whalewatchalert/status/2095476697487294751",
+        "lang": "en",
+        "text": "KOL surveillor just bought $26.78K of $CARDS at $352.67M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 11:39:11 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 7772,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095476697487294751",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095475246102954360",
+        "url": "https://x.com/whalewatchalert/status/2095475246102954360",
+        "lang": "en",
+        "text": "A USELESS whale just bought $14.81K of $CARDS at $351.32M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 11:33:25 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 7776,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095475246102954360",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095432032591417570",
+        "url": "https://x.com/givenho/status/2095432032591417570",
+        "lang": "en",
+        "text": "\ud83d\ude48  another dev session is gaining momentum.   $CARDS   https://t.co/3AYrVYzjDf",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "349236393",
+          "name": "given ho",
+          "canDm": false,
+          "location": "",
+          "userName": "givenho",
+          "username": "givenho",
+          "createdAt": "Fri Aug 05 19:46:33 +0000 2011",
+          "followers": 53,
+          "following": 47,
+          "mediaCount": 6,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 102,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2088661291632324608/YOYjpkkH_normal.jpg",
+          "favouritesCount": 3,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/3AYrVYzjDf",
+              "indices": [
+                55,
+                78
+              ],
+              "display_url": "puep.fun/?CARDSccUMFKoP\u2026",
+              "expanded_url": "https://puep.fun/?CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp?v=1"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 08:41:42 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 8,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095432032591417570",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095420840707805675",
+        "url": "https://x.com/ESMARLINPEA/status/2095420840707805675",
+        "lang": "en",
+        "text": "\ud83d\udc75  another dev session is gaining momentum.   $CARDS   https://t.co/kcXheTc7fK",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2389508538",
+          "name": "ESMARLIN PE\u00d1A",
+          "canDm": false,
+          "location": "",
+          "userName": "ESMARLINPEA",
+          "username": "ESMARLINPEA",
+          "createdAt": "Fri Mar 14 17:17:38 +0000 2014",
+          "followers": 49,
+          "following": 57,
+          "mediaCount": 4,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 102,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2087989444217565184/4yopxb4d_normal.jpg",
+          "favouritesCount": 4,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/kcXheTc7fK",
+              "indices": [
+                55,
+                78
+              ],
+              "display_url": "puep.fun/?CARDSccUMFKoP\u2026",
+              "expanded_url": "https://puep.fun/?CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp?v=1"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Thu Sep 03 07:57:14 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 12,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095420840707805675",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2094459251871596907",
+        "url": "https://x.com/cmcal_bot/status/2094459251871596907",
+        "lang": "en",
+        "text": "New event added\n\nUpside Launch\n\nCollector Crypt \u00b7 $CARDS\n31 Aug 2026\nImpact 3/10\n\nhttps://t.co/TDt3Wug1Gk https://t.co/XZzSL1qRH4",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "964161357959651328",
+          "name": "CoinMarketCal Bot",
+          "canDm": false,
+          "location": "",
+          "userName": "cmcal_bot",
+          "username": "cmcal_bot",
+          "createdAt": "Thu Feb 15 15:35:55 +0000 2018",
+          "followers": 34064,
+          "following": 1,
+          "mediaCount": 74470,
+          "automatedBy": "CoinMarketCal",
+          "description": "",
+          "isAutomated": true,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 85251,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2074958724637102082/VfyRvT18_normal.jpg",
+          "favouritesCount": 6,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/TDt3Wug1Gk",
+              "indices": [
+                82,
+                105
+              ],
+              "display_url": "coinmarketcal.com/event/upside-l\u2026",
+              "expanded_url": "https://coinmarketcal.com/event/upside-launch-40852474-1"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Mon Aug 31 16:16:13 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 867,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2094459251871596907",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2093912024350629896",
+        "url": "https://x.com/mr_alguaci/status/2093912024350629896",
+        "lang": "en",
+        "text": "Collector Crypt ( $CARDS ) confirmed a multi-million-dollar buyback and burn of 22.49M CARDS (~5.4% of pre-unlock supply) and reported over $1 billion in first-year gross revenue. These catalysts drove the 37.8% price surge, signaling strong fundamentals and reduced token supply. https://t.co/rYcrzcym3V",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1909770915438530560",
+          "name": "Alguacil",
+          "canDm": true,
+          "location": "Crypto Moon",
+          "userName": "mr_alguaci",
+          "username": "mr_alguaci",
+          "createdAt": "Wed Apr 09 00:51:13 +0000 2025",
+          "followers": 345,
+          "following": 40,
+          "mediaCount": 1099,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1909770915438530560/1787902829",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 11896,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2093238787027435732"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2019285530739961856/_TcQoj7L_normal.jpg",
+          "favouritesCount": 10789,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Sun Aug 30 04:01:44 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 100,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2093912024350629896",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2093781676862132309",
+        "url": "https://x.com/Live4YourDeam/status/2093781676862132309",
+        "lang": "en",
+        "text": "$CARDS Collector Crypt is playing a MASSIVE life-long Cup &amp; Handle \nTechnical target \ud83c\udfaf a full 3x \ud83d\ude80\n\nLets follow this \ud83d\udc40\ud83d\udc47\ud83c\udf7f https://t.co/eWGO8TIGfD",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "950624521169526784",
+          "name": "Good2go \ud83c\udf4a\ud83d\ude80\ud83c\udf1f",
+          "canDm": true,
+          "location": "",
+          "userName": "Live4YourDeam",
+          "username": "Live4YourDeam",
+          "createdAt": "Tue Jan 09 07:05:22 +0000 2018",
+          "followers": 895,
+          "following": 154,
+          "mediaCount": 1658,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/950624521169526784/1600145188",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 5202,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2076121463921209579"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1465489075532664832/4lnL02Sk_normal.jpg",
+          "favouritesCount": 5605,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Sat Aug 29 19:23:47 +0000 2026",
+        "likeCount": 5,
+        "viewCount": 266,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2093781676862132309",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2093753102058860918",
+        "url": "https://x.com/cmcal_bot/status/2093753102058860918",
+        "lang": "en",
+        "text": "New event added\n\nBuyback Token Burn\n\nCollector Crypt \u00b7 $CARDS\n29 Aug 2026\nImpact 6.5/10\n\nhttps://t.co/k0FoBpD0yh https://t.co/4L2q4WnWKx",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "964161357959651328",
+          "name": "CoinMarketCal Bot",
+          "canDm": false,
+          "location": "",
+          "userName": "cmcal_bot",
+          "username": "cmcal_bot",
+          "createdAt": "Thu Feb 15 15:35:55 +0000 2018",
+          "followers": 34064,
+          "following": 1,
+          "mediaCount": 74470,
+          "automatedBy": "CoinMarketCal",
+          "description": "",
+          "isAutomated": true,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 85251,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2074958724637102082/VfyRvT18_normal.jpg",
+          "favouritesCount": 6,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/k0FoBpD0yh",
+              "indices": [
+                89,
+                112
+              ],
+              "display_url": "coinmarketcal.com/event/buyback-\u2026",
+              "expanded_url": "https://coinmarketcal.com/event/buyback-token-burn-83181787-1"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Sat Aug 29 17:30:14 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 942,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2093753102058860918",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2093161412201726049",
+        "url": "https://x.com/RSPindy/status/2093161412201726049",
+        "lang": "en",
+        "text": "Need this moved. Listed for $2,200 USD on collector crypt. Shoot me a good offer and lets get it going!! \n#collectorcrypt $CARDS #pokemon #vintage https://t.co/ixgBgQDM2r",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1904339230320386048",
+          "name": "Pindy",
+          "canDm": false,
+          "location": "",
+          "userName": "RSPindy",
+          "username": "RSPindy",
+          "createdAt": "Tue Mar 25 01:07:15 +0000 2025",
+          "followers": 58,
+          "following": 66,
+          "mediaCount": 4,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 103,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2090237852227428352/06VKdDeb_normal.jpg",
+          "favouritesCount": 5069,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "collectorcrypt",
+              "indices": [
+                106,
+                121
+              ]
+            },
+            {
+              "text": "pokemon",
+              "indices": [
+                129,
+                137
+              ]
+            },
+            {
+              "text": "vintage",
+              "indices": [
+                138,
+                146
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Aug 28 02:19:04 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 76,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2093161412201726049",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2093134770347573600",
+        "url": "https://x.com/Duhhhduhhhduhhh/status/2093134770347573600",
+        "lang": "en",
+        "text": "@TheFlowHorse $CARDS\n\nCollector Crypt (CC) has done over $1B in lifetime revenue. Lately it\u2019s been one of the top revenue apps on all of Solana, and it owns the majority of the on-chain card market (recently surpassing the https://t.co/AYYCO6o9Rk, the category leader). \n\nBuybacks are live and funded by revenue. Employees own equity in CC through the token, and early VC unlocks are winding down. The team and investors are aligned and building. \n\nThe business itself is an online marketplace and gacha site where trading cards are won, purchased, and sold. Fees are way lower than eBay\u2019s 13%, buybacks are instant, and they build internal tooling to track and index cards and their subcategories. Every card on the platform is tokenized, held in their vault, and burned when it\u2019s delivered or redeemed. And that tokenization is the magic. \n\nBecause once the cards are on-chain, you can financialize them. CC is enabling the first true RWA perpetual futures product. In short what Robert Shiller envisioned 30 years ago. Collectors can hedge a collection without selling it, speculators can take directional bets without ever touching a card, and the market gets continuous price discovery for the first time.\n\nTrading Cards are the start, watches and other collectibles are next.\n\nMain risks are regulatory clarity and overall collectibles bear market.\n\nHow I see it, $CARDS is shaping up to be a huge business in crypto and beyond.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "2061500390990856192",
+          "name": "D3X",
+          "canDm": false,
+          "location": "The Hole ",
+          "userName": "Duhhhduhhhduhhh",
+          "username": "Duhhhduhhhduhhh",
+          "createdAt": "Mon Jun 01 17:29:29 +0000 2026",
+          "followers": 123,
+          "following": 337,
+          "mediaCount": 186,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2061500390990856192/1780432957",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 1128,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2069243413132701704"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2061500958341804032/YSn_4ORp_normal.jpg",
+          "favouritesCount": 2663,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/AYYCO6o9Rk",
+              "indices": [
+                209,
+                232
+              ],
+              "display_url": "Courtyard.io",
+              "expanded_url": "http://Courtyard.io"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Aug 28 00:33:12 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 186,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": "2093112788944031754",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2093112788944031754",
+        "isLimitedReply": false,
+        "inReplyToUserId": "936224248586211329",
+        "inReplyToUsername": "TheFlowHorse"
+      },
+      {
+        "id": "2092610818487841247",
+        "url": "https://x.com/jussy_world/status/2092610818487841247",
+        "lang": "en",
+        "text": "@Collector_Crypt They are doing buybacks\n\nBut there is no official information about it; the team just mentioned it a few times in the space or on Discord\n\nBelow you can see \"Cumulative $CARDS Buyback as % of Total Circulating Supply\"\n\nthx to @zkayAPE \n\nhttps://t.co/ndeQkWI8GI https://t.co/PGKIM677E0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1479905666798178307",
+          "name": "jussy",
+          "canDm": true,
+          "location": "Work with me:",
+          "userName": "jussy_world",
+          "username": "jussy_world",
+          "createdAt": "Sat Jan 08 19:59:52 +0000 2022",
+          "followers": 75046,
+          "following": 1753,
+          "mediaCount": 7084,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1479905666798178307/1787573142",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 60032,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1805882099993362433/ZS_9CBKb_normal.jpg",
+          "favouritesCount": 32371,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/ndeQkWI8GI",
+              "indices": [
+                254,
+                277
+              ],
+              "display_url": "blockworks.com/analytics/coll\u2026",
+              "expanded_url": "https://blockworks.com/analytics/collector-crypt/collector-crypt-financials/collector-crypt-cumulative-buyback-as-of-total-circulating-supply-2"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                0,
+                16
+              ],
+              "screen_name": "Collector_Crypt"
+            },
+            {
+              "name": "zkayAPE",
+              "id_str": "337177629",
+              "indices": [
+                243,
+                251
+              ],
+              "screen_name": "zkayAPE"
+            }
+          ]
+        },
+        "createdAt": "Wed Aug 26 13:51:12 +0000 2026",
+        "likeCount": 12,
+        "viewCount": 1389,
+        "quoteCount": 0,
+        "replyCount": 2,
+        "inReplyToId": "2092342937200001374",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2092342937200001374",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1479905666798178307",
+        "inReplyToUsername": "jussy_world"
+      },
+      {
+        "id": "2092585669411422664",
+        "url": "https://x.com/bewise0/status/2092585669411422664",
+        "lang": "en",
+        "text": "HEEBOO - Latest\n\n<1 hour left of the 24 hours window with a 25% bonus\u2026.\n\nAmount Pledged $621,622.13\nImplied FDV: $12.43M\nTotal Backers: 1,164\n\n$CARDS by Collector Crypt in Aug 2025 did ~69% deposits in the first 24 hours, under exactly the same launch pool mechanics (25% bonus etc).  \n\nI\u2019d assume similar to CARDS, where ~70% of the volume hits in the first 24 hours with the bonus. \n\nImplied $12M FDV still feels low?\n\nI need $24M to break even on my $HEEBOO accumulated via pack rips\u2026",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1458134848430878721",
+          "name": "bewise",
+          "canDm": true,
+          "location": "",
+          "userName": "bewise0",
+          "username": "bewise0",
+          "createdAt": "Tue Nov 09 18:10:33 +0000 2021",
+          "followers": 21588,
+          "following": 3155,
+          "mediaCount": 4276,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1458134848430878721/1788001586",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 84182,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2085040955392954368/H_VJJPUI_normal.jpg",
+          "favouritesCount": 78012,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Aug 26 12:11:16 +0000 2026",
+        "likeCount": 62,
+        "viewCount": 3835,
+        "quoteCount": 0,
+        "replyCount": 36,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 3,
+        "conversationId": "2092585669411422664",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2091964570818527467",
+        "url": "https://x.com/nobi_ventures/status/2091964570818527467",
+        "lang": "en",
+        "text": "Gacha Games are returning in September!\n\nAfter hitting $1B in gross revenue and the 1 year mark for $CARDS, Collector Crypt is continuing to accomplish what many thought impossible - onboarding the next generation of onchain collectors.\n\n*nobi ventures invested in CC",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1901485707736088577",
+          "name": "Nobi Ventures",
+          "canDm": true,
+          "location": "",
+          "userName": "nobi_ventures",
+          "username": "nobi_ventures",
+          "createdAt": "Mon Mar 17 04:08:58 +0000 2025",
+          "followers": 1658,
+          "following": 36,
+          "mediaCount": 2,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 9,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1964230492804333865"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1906332668683296768/nYAFhmKQ_normal.jpg",
+          "favouritesCount": 31,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Mon Aug 24 19:03:15 +0000 2026",
+        "likeCount": 22,
+        "viewCount": 4955,
+        "quoteCount": 1,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 2,
+        "conversationId": "2091964570818527467",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2091958031017726050",
+        "url": "https://x.com/Collector_Crypt/status/2091958031017726050",
+        "lang": "en",
+        "text": "Celebrating $1 Billion in Gross Revenue, One Year of $CARDS, and the Community That Made It Possible. https://t.co/3yuUhpGWk9",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1488914036607623170",
+          "name": "Collector Crypt",
+          "canDm": true,
+          "location": "\ud83d\udc49",
+          "userName": "Collector_Crypt",
+          "username": "Collector_Crypt",
+          "createdAt": "Wed Feb 02 16:36:03 +0000 2022",
+          "followers": 95052,
+          "following": 1810,
+          "mediaCount": 1316,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1488914036607623170/1778784933",
+          "isTranslator": false,
+          "verifiedType": "Business",
+          "statusesCount": 6877,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2094501457705759175"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2076718312227008512/4IxxtPj7_normal.jpg",
+          "favouritesCount": 21023,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/3yuUhpGWk9",
+              "indices": [
+                102,
+                125
+              ],
+              "display_url": "x.com/i/article/2061\u2026",
+              "expanded_url": "https://x.com/i/article/2061402087011885056"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Mon Aug 24 18:37:15 +0000 2026",
+        "likeCount": 199,
+        "viewCount": 21583,
+        "quoteCount": 9,
+        "replyCount": 27,
+        "inReplyToId": null,
+        "retweetCount": 32,
+        "bookmarkCount": 13,
+        "conversationId": "2091958031017726050",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2090816704335294639",
+        "url": "https://x.com/Flowslikeosmo/status/2090816704335294639",
+        "lang": "en",
+        "text": "$CARDS looks quite good here.\n\n+25% over the past week, with fundamentals improving on the back end over the past few months.\n\n- @solflare embedded Collector Crypt's gacha pack mechanic directly into the wallet in June\n- @JupiterExchange launched \"Jupiter Gacha\" in partnership with Collector Crypt in July.\n\nYou also have the team saying that $CARDS buybacks will be funded by protocol revenue, while gross profits and volume look quite healthy.\n\nAt a 0.57x P/F with improving fundamentals and a buyback that's yet to be priced in, this makes sense now.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1373788838250876928",
+          "name": "Emperor Osmo \u270f\ufe0f",
+          "canDm": true,
+          "location": "Crosschain ",
+          "userName": "Flowslikeosmo",
+          "username": "Flowslikeosmo",
+          "createdAt": "Mon Mar 22 00:09:28 +0000 2021",
+          "followers": 93020,
+          "following": 2055,
+          "mediaCount": 10221,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1373788838250876928/1722961150",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 45056,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2042979508752392320"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2092685680124014592/5G0EOE9c_normal.jpg",
+          "favouritesCount": 127885,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Solflare - The Solana Wallet",
+              "id_str": "1261736634116161538",
+              "indices": [
+                129,
+                138
+              ],
+              "screen_name": "solflare"
+            },
+            {
+              "name": "Jupiter",
+              "id_str": "1446489618208067586",
+              "indices": [
+                221,
+                237
+              ],
+              "screen_name": "JupiterExchange"
+            }
+          ]
+        },
+        "createdAt": "Fri Aug 21 15:02:02 +0000 2026",
+        "likeCount": 28,
+        "viewCount": 3109,
+        "quoteCount": 0,
+        "replyCount": 7,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 2,
+        "conversationId": "2090816704335294639",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2090086018884178177",
+        "url": "https://x.com/Scipioborges69/status/2090086018884178177",
+        "lang": "en",
+        "text": "$CARDS $PUMP $ZEC\n\nHow to make money onchain while AI prints everything. https://t.co/ZLg17OMrMS",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "977742023607267328",
+          "name": "Scipioneborghese",
+          "canDm": true,
+          "location": "",
+          "userName": "Scipioborges69",
+          "username": "Scipioborges69",
+          "createdAt": "Sun Mar 25 03:00:38 +0000 2018",
+          "followers": 433,
+          "following": 1015,
+          "mediaCount": 91,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/977742023607267328/1787069146",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 706,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2090086018884178177"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1981798973292601344/eCbU86pL_normal.jpg",
+          "favouritesCount": 3364,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/ZLg17OMrMS",
+              "indices": [
+                73,
+                96
+              ],
+              "display_url": "x.com/i/article/2089\u2026",
+              "expanded_url": "https://x.com/i/article/2089736844863066112"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Aug 19 14:38:33 +0000 2026",
+        "likeCount": 3,
+        "viewCount": 423,
+        "quoteCount": 1,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2090086018884178177",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2089890483841520095",
+        "url": "https://x.com/whalespremarket/status/2089890483841520095",
+        "lang": "en",
+        "text": "\ud83d\udc33@Collector_Crypt generated $11.9M in revenue over the past 30 days.\n\nYet $CARDS is still nearly 55% below its ATH.\n\nSo who is actually making money from the Gacha meta?\n\nOver the past 30 days, Collector Crypt recorded:\n\n\u2192 $136.85M in volume\n\u2192 $11.92M in protocol revenue\n\u2192 More than $84M in cumulative revenue\n\nMeanwhile, $CARDS is trading around $0.17.\n\nThe token is up 11.9% over the past month, but it still sits 54.7% below its $0.38 ATH.\n\nThe business is generating real revenue.\n\nThe token is still far from its high.\n\nTo understand the disconnect, you need to look at how the Gacha loop works.\n\nUsers pay to open a pack and receive ownership of a real graded Pok\u00e9mon card stored in a vault.\n\nThey can then:\n\n\u2192 Hold it onchain\n\u2192 Redeem the physical card\n\u2192 Take the instant buyback offer\n\nDepending on the pack, the buyback ranges from 85% to 93% of the card\u2019s assessed value.\n\nThis creates a powerful loop:\n\nOpen \u2192 Sell back \u2192 Open again\n\nBut high volume does not mean every dollar becomes protocol revenue.\n\nIn Q3 so far, Collector Crypt has recorded roughly:\n\n\u2192 $248.8M in pack sales\n\u2192 $230.4M in pack buybacks\n\u2192 $18.58M in gross protocol revenue\n\nAround 92.6% of pack sales flows back through buybacks.\n\nThe protocol books roughly 7.5% as revenue.\n\nThat gives the protocol the clearest edge in the Gacha meta.\n\nIt does not need to guess which pack contains the rare card.\n\nIt earns from the spread, fees, and every user who comes back for another spin.\n\nWhat about the pack openers?\n\nSome will hit a rare card and walk away with a big win.\n\nBut users who repeatedly sell back and reopen absorb a 7% to 15% haircut on the assessed card value each time.\n\nOver enough spins, that cost compounds.\n\nPoints, referrals, and free packs can soften the hit.\n\nFor example, June\u2019s Gacha Games campaign distributed points worth $500,000 in free pack value across 9,925 participants.\n\nBut rewards do not change the core structure:\n\nThe protocol earns across total activity.\n\nPlayers only come out ahead when the cards and rewards they receive are worth more than the capital they put in.\n\nThen there are $CARDS holders.\n\n$CARDS has been included in reward campaigns, holder benefits, and free pack distributions.\n\nBut holding the token does not give you a direct claim on Collector Crypt\u2019s revenue.\n\nDefiLlama also cannot currently verify holder revenue because Collector Crypt has not officially confirmed the buyback hub wallet.\n\nSupply is another factor.\n\nOnly 414.8M out of the 2B $CARDS supply is currently circulating.\n\nThat is just 20.7%.\n\nThe remaining supply still matters when pricing the token over the long term.\n\nSo yes, Gacha can become a great business.\n\nThat does not mean every pack opener or every token holder will make money from it.\n\nRight now, the clearest winner is the infrastructure sitting behind every click on \u201cOpen Pack.\u201d\n\nInstead of watching volume alone, I would track one number:\n\nFor every $1 spent on Gacha, how much value actually flows back to $CARDS holders?",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1952633251249688576",
+          "name": "Whales Premarket",
+          "canDm": false,
+          "location": "",
+          "userName": "whalespremarket",
+          "username": "whalespremarket",
+          "createdAt": "Tue Aug 05 07:31:01 +0000 2025",
+          "followers": 5533,
+          "following": 6,
+          "mediaCount": 314,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1952633251249688576/1765862409",
+          "isTranslator": false,
+          "verifiedType": "Business",
+          "statusesCount": 603,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1999148683145732097/iVwH611Z_normal.jpg",
+          "favouritesCount": 411,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                1,
+                17
+              ],
+              "screen_name": "Collector_Crypt"
+            }
+          ]
+        },
+        "createdAt": "Wed Aug 19 01:41:34 +0000 2026",
+        "likeCount": 5,
+        "viewCount": 3950,
+        "quoteCount": 1,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 5,
+        "conversationId": "2089890483841520095",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2089729572480700679",
+        "url": "https://x.com/SolNFTs/status/2089729572480700679",
+        "lang": "en",
+        "text": "Early deposit bonuses in a Metaplex launch pool were first tested by Collector Crypt for their $CARDS launch\n\nIt helps reward early participants while still allowing for true onchain price discovery during the sale\n\n$HEEBOO sale coming a week from today, powered by Metaplex",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1423798604704198658",
+          "name": "NFToly",
+          "canDm": true,
+          "location": "Canada",
+          "userName": "SolNFTs",
+          "username": "SolNFTs",
+          "createdAt": "Sat Aug 07 00:10:21 +0000 2021",
+          "followers": 69795,
+          "following": 7238,
+          "mediaCount": 4595,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1423798604704198658/1784579850",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 51271,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2090103391665979592"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2092663084586283008/hlq6s13x_normal.jpg",
+          "favouritesCount": 239743,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Aug 18 15:02:10 +0000 2026",
+        "likeCount": 49,
+        "viewCount": 2769,
+        "quoteCount": 0,
+        "replyCount": 10,
+        "inReplyToId": null,
+        "retweetCount": 2,
+        "bookmarkCount": 1,
+        "conversationId": "2089729572480700679",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2088934365371740474",
+        "url": "https://x.com/Crypto_Nuclear_/status/2088934365371740474",
+        "lang": "en",
+        "text": "Collector Crypt $CARDS is the L1\n\nPackrips $RIPS is the L2\n\nGet it now??\n\n@Collector_Crypt @RipsOnSOL https://t.co/vfeRtJCf8S",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1792323113146884096",
+          "name": "Nuke",
+          "canDm": false,
+          "location": "",
+          "userName": "Crypto_Nuclear_",
+          "username": "Crypto_Nuclear_",
+          "createdAt": "Sun May 19 22:35:19 +0000 2024",
+          "followers": 2141,
+          "following": 1516,
+          "mediaCount": 1915,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1792323113146884096/1784153060",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 18202,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1836262586033090560/eGP5Hp5w_normal.jpg",
+          "favouritesCount": 52551,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                74,
+                90
+              ],
+              "screen_name": "Collector_Crypt"
+            },
+            {
+              "name": "packrips.gg",
+              "id_str": "2054697872264749056",
+              "indices": [
+                91,
+                101
+              ],
+              "screen_name": "RipsOnSOL"
+            }
+          ]
+        },
+        "createdAt": "Sun Aug 16 10:22:17 +0000 2026",
+        "likeCount": 16,
+        "viewCount": 364,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 6,
+        "bookmarkCount": 1,
+        "conversationId": "2088934365371740474",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2088745251468911024",
+        "url": "https://x.com/yoinkkkkkkkkkk/status/2088745251468911024",
+        "lang": "en",
+        "text": "I have created a Gacha Pack website called \"Bashers\", users will receive $cards tokens along with some tech.\n\nUsers can use our @LaunchOnSF token, Solana, and USDC to buy and open Collector Crypt packs via their API. I added $BTC and $Manlet for payments as well! Zero fees.\n\nWill be adding some more machines as it updates. I feel this is a good narrative. \n\nhttps://t.co/5c0FAH6Dvz \n\nHere is the open source: https://t.co/nr8xB4lSPL",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2081944408954384384",
+          "name": "yoink",
+          "canDm": true,
+          "location": "",
+          "userName": "yoinkkkkkkkkkk",
+          "username": "yoinkkkkkkkkkk",
+          "createdAt": "Tue Jul 28 03:27:15 +0000 2026",
+          "followers": 72,
+          "following": 25,
+          "mediaCount": 17,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2081944408954384384/1786679261",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 120,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2088696848034754560/9tzxYzar_normal.jpg",
+          "favouritesCount": 163,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/5c0FAH6Dvz",
+              "indices": [
+                360,
+                383
+              ],
+              "display_url": "Bashers.xyz",
+              "expanded_url": "http://Bashers.xyz"
+            },
+            {
+              "url": "https://t.co/nr8xB4lSPL",
+              "indices": [
+                411,
+                434
+              ],
+              "display_url": "github.com/BashersXYZ/bas\u2026",
+              "expanded_url": "https://github.com/BashersXYZ/bashers-gacha"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Stonk",
+              "id_str": "1668095655905046529",
+              "indices": [
+                128,
+                139
+              ],
+              "screen_name": "LaunchOnSF"
+            }
+          ]
+        },
+        "createdAt": "Sat Aug 15 21:50:49 +0000 2026",
+        "likeCount": 15,
+        "viewCount": 1490,
+        "quoteCount": 1,
+        "replyCount": 8,
+        "inReplyToId": null,
+        "retweetCount": 1,
+        "bookmarkCount": 0,
+        "conversationId": "2088745251468911024",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2088658017273209002",
+        "url": "https://x.com/sjdedic/status/2088658017273209002",
+        "lang": "en",
+        "text": "you guys had a month to accumulate, but it's time now.\n\nonchain TCGs only keep gaining more mindshare and pmf, and Collector Crypt continues leading the narrative while building out its moat as the incumbent.\n\nthe next leg up for $CARDS is getting initiated as we speak, and I expect well deserved unicorn status to be hit in September-October.\n\nthere's no looking back now bros.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1600230048572792846",
+          "name": "Simon Dedic",
+          "canDm": true,
+          "location": "",
+          "userName": "sjdedic",
+          "username": "sjdedic",
+          "createdAt": "Tue Dec 06 20:46:19 +0000 2022",
+          "followers": 50356,
+          "following": 2493,
+          "mediaCount": 1696,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1600230048572792846/1719899138",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 13165,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2077687434930700643"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2077683341206188032/nEDZAhD9_normal.jpg",
+          "favouritesCount": 84258,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Sat Aug 15 16:04:11 +0000 2026",
+        "likeCount": 176,
+        "viewCount": 20396,
+        "quoteCount": 3,
+        "replyCount": 22,
+        "inReplyToId": null,
+        "retweetCount": 15,
+        "bookmarkCount": 20,
+        "conversationId": "2088658017273209002",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2088309678631510253",
+        "url": "https://x.com/SolanaHub_/status/2088309678631510253",
+        "lang": "en",
+        "text": "Collector Crypt crosses $1B in gross revenue. \n\n24H Solana recap \ud83d\udc47\n\nCapital Markets & RWAs\n\n- @Collector_Crypt crossed $1B in gross revenue and teased a games-related celebration around its $CARDS Pok\u00e9mon RWA ecosystem.\n- @FwdInd acquired another 254K $SOL, bringing its treasury to 7.8M+ SOL.\n- @Bullish executed its first tokenized equity trades on a regulated digital asset exchange with $BLSH tokenized on Solana.\n\nDeFi & Trading\n\n- @RE launched PT-reUSD looping incentives on @Pendle_Fi, offering up to 20% additional APY through August 27.\n- @JupiterExchange launched JupCallers Season 1 with up to $5K in prizes and public leaderboard tracking.\n- @PumpFun introduced Callout Rewards, paying users based on trading volume generated through token callouts.\n\nInfrastructure & Builders\n\n- @NotDeGhost released Anchor v2.0.0-rc.1, delivering 3\u20136x faster programs and 90% smaller binaries.\n- @x402_layer launched Singularity Processors for humans and AI agents to build, deploy, and sell software with USDC and USDG payments.\n- @Solana_Devs opened applications for the seven-week Solana School Fall Class.\n\nConsumer & Community\n\n- @SNS announced .sol registrations will pause August 17 for an onchain snapshot ahead of new matching domains.\n- @NFW_DOT_FUN launched Pull Party, enabling users to pool SOL for automated collectible card pulls and sales.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1741495962319896576",
+          "name": "Solana Hub",
+          "canDm": true,
+          "location": "No affiliation with Solana",
+          "userName": "SolanaHub_",
+          "username": "SolanaHub_",
+          "createdAt": "Sun Dec 31 16:26:33 +0000 2023",
+          "followers": 22961,
+          "following": 10,
+          "mediaCount": 3742,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1741495962319896576/1712033359",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 8980,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2057468566262485304"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1748555938641178624/Io0r_zlp_normal.jpg",
+          "favouritesCount": 16483,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Collector Crypt",
+              "id_str": "1488914036607623170",
+              "indices": [
+                94,
+                110
+              ],
+              "screen_name": "Collector_Crypt"
+            },
+            {
+              "name": "Forward Ind. | NASDAQ-$FWDI",
+              "id_str": "1966148244540678144",
+              "indices": [
+                222,
+                229
+              ],
+              "screen_name": "FwdInd"
+            },
+            {
+              "name": "Bullish",
+              "id_str": "772963621206917120",
+              "indices": [
+                296,
+                304
+              ],
+              "screen_name": "Bullish"
+            },
+            {
+              "name": "Re",
+              "id_str": "1532891",
+              "indices": [
+                437,
+                440
+              ],
+              "screen_name": "RE"
+            },
+            {
+              "name": "Pendle",
+              "id_str": "1377493693762969600",
+              "indices": [
+                481,
+                491
+              ],
+              "screen_name": "Pendle_Fi"
+            },
+            {
+              "name": "Jupiter",
+              "id_str": "1446489618208067586",
+              "indices": [
+                548,
+                564
+              ],
+              "screen_name": "JupiterExchange"
+            },
+            {
+              "name": "Pump.fun",
+              "id_str": "1622243071806128131",
+              "indices": [
+                654,
+                662
+              ],
+              "screen_name": "PumpFun"
+            },
+            {
+              "name": "Robert Chen",
+              "id_str": "1038484278810570752",
+              "indices": [
+                792,
+                803
+              ],
+              "screen_name": "NotDeGhost"
+            },
+            {
+              "name": "The Singularity Layer",
+              "id_str": "2004232815278526464",
+              "indices": [
+                893,
+                904
+              ],
+              "screen_name": "x402_layer"
+            },
+            {
+              "name": "Solana Developers",
+              "id_str": "1499809254227812360",
+              "indices": [
+                1029,
+                1041
+              ],
+              "screen_name": "Solana_Devs"
+            },
+            {
+              "name": "sns.sol",
+              "id_str": "1280715218947989506",
+              "indices": [
+                1132,
+                1136
+              ],
+              "screen_name": "SNS"
+            }
+          ]
+        },
+        "createdAt": "Fri Aug 14 17:00:00 +0000 2026",
+        "likeCount": 41,
+        "viewCount": 3016,
+        "quoteCount": 0,
+        "replyCount": 7,
+        "inReplyToId": null,
+        "retweetCount": 9,
+        "bookmarkCount": 0,
+        "conversationId": "2088309678631510253",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      }
+    ],
+    "securityData": null,
+    "holdersData": null,
+    "marketData": null,
+    "createdAt": "2026-10-29T08:46:49.528Z",
+    "updatedAt": "2026-10-29T08:46:49.528Z",
+    "conversation": {
+      "id": "cmvtauoqj0004kt08csxw5x54",
+      "reportId": "cmvtauoqi0003kt08qspd2wnj",
+      "createdAt": "2026-10-29T08:46:49.528Z",
+      "updatedAt": "2026-10-29T08:57:49.550Z",
+      "messages": [
+        {
+          "id": "cmvtb8oky0004l108fh9ngsow",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "user",
+          "content": "The Raydium pool recorded 3,775 transactions in 24 hours\u20142,330 buys (61.7%) versus 1,445 sells (38.3%)\u2014yet CARDS fell 8.5% in one hour. What measurable order-size or pool-impact evidence would explain why buy-count dominance did not support price, and can the excerpt establish volume-to-liquidity turnover?",
+          "timestamp": "2026-10-29T08:57:41.296Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8pqc000ol207yyo4mp4o",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "assistant",
+          "content": "Buy counts alone do not establish net demand: 1,445 sells could outweigh 2,330 buys in notional size. The excerpt gives neither buy/sell notional nor 24-hour volume or pool liquidity, so volume-to-liquidity turnover cannot be calculated. The 8.5% one-hour decline is consistent with larger sell orders or liquidity withdrawal, but does not distinguish them. Validate with signed trade notional, price impact by trade size, and time-aligned CLMM liquidity changes.",
+          "timestamp": "2026-10-29T08:57:42.972Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8r3l000sl2074wh9omq5",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "user",
+          "content": "Only 932.2M of approximately 1.977B CARDS is circulating (46.6%), leaving about 1.045B non-circulating, while the project description reports $75M in revenue. What evidence would show that this reported revenue accrues to tokenholders or offsets unlock dilution rather than merely reflecting platform activity?",
+          "timestamp": "2026-10-29T08:57:44.477Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8rx4000wl207il13s237",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "assistant",
+          "content": "The excerpt does not establish revenue verification, tokenholder capture, or an unlock schedule. The 1.045B non-circulating supply is about 112.1% of the 932.2M circulating supply; if released, it could materially dilute current holders. Treat the $75M figure as an unverified project-reported claim until reconciled to audited or on-chain revenue, and quantify any token buybacks, burns, distributions, or treasury accumulation. Compare net token capture against actual unlocks over the same period; without that evidence, revenue cannot be assumed to offset dilution.",
+          "timestamp": "2026-10-29T08:57:46.087Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8sxs000yl2078hoet47z",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "user",
+          "content": "As a falsifiable accumulation-versus-distribution test, what thresholds would you require for slippage in basis points, Raydium CLMM liquidity depletion, and whale retention? The report cites 2,245 transactions in six hours and approximately 1.045B non-circulating CARDS; specify a measurement window and thresholds that would change your conclusion.",
+          "timestamp": "2026-10-29T08:57:47.199Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8tyd0012l207m8lfw0d2",
+          "conversationId": "cmvtauoqj0004kt08csxw5x54",
+          "role": "assistant",
+          "content": "Use a pre-registered 24-hour test, with the 2,245 six-hour transactions as activity context\u2014not proof of accumulation. A provisional accumulation signal would require: (1) slippage below 100 bps for a fixed $10,000 USDC buy and sell, with buy-side slippage no worse than sell-side; (2) less than 10% depletion of active CLMM liquidity within \u00b12% of price; and (3) at least 90% retention of the top-20 non-exchange wallets\u2019 opening CARDS balances. Distribution would be indicated by sustained slippage above 200 bps, more than 20% near-price liquidity depletion, or whale retention below 80%. These are proposed test thresholds, not figures reported in the excerpt; wallet exclusions and pool snapshots must be documented.",
+          "timestamp": "2026-10-29T08:57:48.528Z",
+          "followupKind": null
+        }
+      ]
+    }
+  }
+}

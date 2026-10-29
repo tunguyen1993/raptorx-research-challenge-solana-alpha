@@ -1,0 +1,155 @@
+{
+  "ok": true,
+  "report": {
+    "id": "cmvtaw2zy000bi607olpzctwj",
+    "userId": "cmvtatm8c0001kz075dqtzks5",
+    "contractAddress": "1zjx5grnjlgmtpq5svwkq69mndqkcemqoasyjapw6jm",
+    "ticker": "KLED",
+    "projectName": "KLEDAI",
+    "chain": "solana",
+    "reportType": "crypto",
+    "content": "# KLEDAI ($KLED) \u2014 Comprehensive Technical Research Report\n\n**Report Date:** July 1, 2026  \n**Blockchain:** Solana  \n**Contract Address:** `1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm`  \n**Ticker:** KLED  \n**Project Name:** KLEDAI  \n\n---\n\n## 1. What It Is\n\nKLEDAI, trading under the ticker **$KLED**, is an artificial intelligence (AI) focused cryptocurrency project built on the Solana blockchain. The project is positioned at the intersection of AI and decentralized finance, offering a token that powers an ecosystem described as an \"AI Framework\" according to CoinGecko's categorization. KLEDAI is also part of the **Believe.app Ecosystem** and the broader **Solana Ecosystem**, indicating its integration within a growing network of AI-driven decentralized applications.\n\nThe project's official website is **https://www.kled.ai/**, which serves as the primary portal for information regarding the platform's AI capabilities, use cases, and roadmap. The token's social presence is anchored by its Twitter handle **@useKled** and an Instagram account (@usekled), suggesting a community-driven marketing approach with a focus on visual and short-form content.\n\nKLEDAI's smart contract is deployed on Solana with the address `1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm`, and it is actively traded on multiple decentralized and centralized exchanges. The project has a maximum supply of **1,000,000,000 KLED** tokens, with a circulating supply of approximately **999,790,215 KLED** at the time of analysis, indicating near-full token distribution.\n\nThe project's primary trading pair is **KLED/Wrapped SOL** on Meteora (a DLMM - Dynamic Liquidity Market Maker), with additional liquidity pools on Orca and centralized exchange listings on **LBank, XT.COM, and WEEX**. The token is also paired against USDC and USDT on various platforms, providing diverse trading options for investors.\n\n---\n\n## 2. Holder Analytics (BNB Tokens Only)\n\n**This section is not applicable.** KLEDAI is deployed on the **Solana** blockchain, not BNB Smart Chain. Therefore, holder analytics for BNB tokens are not relevant to this report. For Solana-based tokens, holder data can typically be obtained from Solscan or other Solana-specific explorers, but such data was not provided in the input for this analysis.\n\n---\n\n## 3. Safety Analytics (BNB Tokens Only)\n\n**This section is not applicable.** KLEDAI is a Solana-based token, and the provided input does not include security analytics data specific to BNB Smart Chain tokens. As such, no safety or risk assessment can be performed based on the available information.\n\nHowever, it is worth noting that CoinGecko includes a public notice regarding the token's contract: *\"According to Rugcheck.xyz, the contract creator can make changes to the token contract such as contract metadata, disabling sells, changing fees, unrestrictive minting of more tokens, transferring tokens etc. Exercise caution.\"* This warning highlights potential centralization risks that investors should consider before participating in the project.\n\n---\n\n## 4. Community Chatter\n\n### Overall Sentiment Analysis\n**Data not available.** No tweets or community chatter data were provided for analysis in this report. The input explicitly states \"No tweets available for analysis,\" which prevents a comprehensive assessment of community sentiment, trending topics, or social engagement metrics.\n\n### Key Community Discussions and Trending Topics\nWithout access to Twitter data or other community channels (Telegram, Discord, etc.), it is impossible to identify specific discussions or trending topics surrounding $KLED. The project's social presence is limited to its Twitter handle (@useKled) and Instagram account, but no recent activity or engagement metrics were provided.\n\n### Engagement Metrics and Social Activity\nThe CoinGecko data indicates that **1,744 users** have $KLED in their watchlist or portfolio, suggesting a moderate level of interest among crypto investors. However, no specific engagement metrics (likes, retweets, comments) are available to gauge the intensity of community activity.\n\n### Notable Influencer Mentions or Whale Discussions\nNo influencer mentions or whale wallet discussions were provided in the input data. The absence of such information makes it difficult to assess whether large holders or prominent figures are actively promoting or discussing the project.\n\n### Caution Flags or Positive Momentum Indicators\nThe CoinGecko public notice regarding contract mutability serves as a caution flag, warning investors about potential risks associated with the token's contract. On the positive side, the token's listing on multiple centralized exchanges (LBank, XT.COM, WEEX) and its inclusion in the Solana Ecosystem and Believe.app Ecosystem suggest some level of legitimacy and infrastructure support.\n\n---\n\n## 5. Top Tweets\n\n**Data not available.** No tweet data was provided for analysis. Tweet cards will load from live data when the user refreshes the report.\n\n---\n\n## 6. Coin-O-Metry\n\n| **Metric** | **Value** |\n|---|---|\n| **Token Price (USD)** | $0.01867 |\n| **Market Cap** | $18,657,290 |\n| **All-Time High Price (USD)** | $0.056163 (January 15, 2026) |\n| **All-Time High Market Cap** | Not explicitly provided (estimated ~$56M based on ATH price) |\n| **24-Hour Price Change** | +1.72% |\n| **24-Hour Volume** | $1,161,858 |\n| **Total Holders** | Data not available |\n| **Launch Date & Token Age** | Pair created: October 11, 2025 (approximately 9 months old) |\n| **Launchpad** | Not specified |\n| **Contract Address** | `1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm` |\n\n### Additional Key Metrics:\n- **Fully Diluted Valuation (FDV):** $18,657,290 (equal to market cap, indicating near-full dilution)\n- **Total Supply:** 999,790,215 KLED\n- **Max Supply:** 1,000,000,000 KLED\n- **Circulating Supply:** 999,790,215 KLED\n- **Liquidity (USD):** $138,621.63\n- **24-Hour Price Change (SOL):** -0.17% (against native token)\n- **7-Day Price Change:** +59.56%\n- **30-Day Price Change:** +74.32%\n- **200-Day Price Change:** -29.09%\n- **Market Cap Rank:** #835 (CoinGecko)\n\n---\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nKLEDAI is currently trading at **$0.01867** with a market capitalization of approximately **$18.66 million**, ranking it #835 on CoinGecko. The token has experienced significant price volatility since its launch in October 2025, reaching an all-time high of **$0.056163** on January 15, 2026\u2014representing a peak market cap of roughly $56 million. From this ATH, the token has retraced approximately **66.7%**, indicating a substantial correction from its peak valuation.\n\nThe token's all-time low was recorded at **$0.001803** on May 24, 2025, shortly after launch. From this low, the price has appreciated by an extraordinary **936.7%**, demonstrating the token's capacity for explosive growth. However, the 200-day price change of **-29.09%** suggests that the token has been in a longer-term downtrend despite recent gains.\n\nThe 24-hour price action shows a modest **+1.72%** increase, with a high of **$0.02014** and a low of **$0.01695**, indicating relatively tight intraday trading. The token's liquidity pool stands at **$138,621.63**, which is modest but sufficient for the current market cap level.\n\n### Trading Indicators\n\n**Volume Analysis:**  \nThe 24-hour trading volume is **$1,161,858**, which represents a volume-to-market-cap ratio of approximately **6.2%**. This is a moderate level of trading activity, suggesting that the token has decent liquidity but is not experiencing extreme speculative trading. The volume is distributed across multiple exchanges, with the highest activity on **Meteora** (SOL pair) and **LBank** (USDT pair), each contributing over $300,000 in volume.\n\n**Buy/Sell Pressure:**  \nDexScreener data reveals a total of **627 buys** and **925 sells** over the past 24 hours, indicating a net selling pressure despite the positive price change. The sell-to-buy ratio of approximately **1.48:1** suggests that more traders are exiting positions than entering, which could be a bearish signal if this trend continues. However, the price still managed to rise, possibly due to larger buy orders or market-making activity.\n\n**Trend Patterns:**  \nThe token's recent performance has been remarkably strong, with **59.56% gains over the past 7 days** and **74.32% over the past 30 days**. This suggests a bullish short-to-medium-term trend. However, the 200-day decline of **-29.09%** indicates that the longer-term trend remains bearish, and the token is still recovering from its broader downtrend.\n\n### On-chain Metrics\n\n**Holder Distribution:**  \nData not available for Solana-based tokens in this report. However, the near-complete circulating supply (99.98% of max supply) suggests that almost all tokens are in circulation, which can reduce dilution risk but also means that any large holder selling could have significant market impact.\n\n**Wallet Behavior:**  \nThe transaction count over the past 24 hours (1,552 total transactions) indicates active trading but not excessive network congestion. The 6-hour transaction count of 187 suggests that activity has slowed in recent hours compared to the broader 24-hour period.\n\n**Transaction Patterns:**  \nThe token's creation timestamp (October 11, 2025) indicates it is approximately **9 months old**, placing it in the \"established\" category for meme/AI tokens. This age, combined with multiple exchange listings, suggests a degree of legitimacy and ongoing project development.\n\n### Exchange Listings & Availability\n\nKLEDAI is well-distributed across both decentralized and centralized exchanges:\n\n**Decentralized Exchanges (DEX):**\n- **Meteora** (Primary DEX) \u2014 KLED/SOL, KLED/USDC pairs\n- **Orca** \u2014 KLED/SOL pair\n\n**Centralized Exchanges (CEX):**\n- **LBank** \u2014 KLED/USDT pair (highest CEX volume)\n- **XT.COM** \u2014 KLED/USDT pair\n- **WEEX** \u2014 KLED/USDT pair\n\nThis multi-exchange presence provides good accessibility for traders and reduces reliance on any single platform. The token's listing on LBank, a relatively well-known centralized exchange, adds a layer of credibility.\n\n### Recent News & Updates\n\nBased on the available data, no recent news or official announcements were provided. The project's website (kled.ai) and Twitter handle (@useKled) are the primary sources for updates, but no specific content was available for analysis. The token's inclusion in CoinGecko's \"Believe.app Ecosystem\" and \"AI Framework\" categories suggests ongoing development within these ecosystems.\n\n### Risk Assessment\n\n**Potential Concerns:**\n1. **Contract Mutability Warning:** CoinGecko's public notice warns that the contract creator can modify the token contract, including disabling sells, changing fees, and minting additional tokens. This represents a significant centralization risk and is a common concern for investors.\n2. **Selling Pressure:** The 24-hour transaction data shows more sells (925) than buys (627), indicating potential distribution or profit-taking.\n3. **Liquidity Depth:** With only $138,621 in liquidity, the token could be susceptible to price manipulation or significant slippage on large trades.\n4. **Volatility:** The token has experienced extreme price swings, including a 936% gain from its ATL and a 66.7% decline from its ATH, making it a high-risk investment.\n5. **Long-term Downtrend:** Despite recent gains, the 200-day price change of -29.09% indicates the token has not fully recovered from its broader bearish trend.\n\n**Positive Indicators:**\n1. **Recent Momentum:** The 7-day (+59.56%) and 30-day (+74.32%) gains suggest strong recent buying interest and potential trend reversal.\n2. **Exchange Diversity:** Multiple exchange listings provide good liquidity and accessibility.\n3. **Market Cap Rank:** Being ranked #835 on CoinGecko places KLEDAI in the top 1,000 cryptocurrencies, indicating some level of market recognition.\n4. **AI Sector Exposure:** The token's categorization under Artificial Intelligence (AI) positions it within a high-growth sector that continues to attract investor interest.\n5. **Near-Full Dilution:** With 99.98% of the max supply in circulation, there is minimal risk of future token dilution from unlocks or minting (assuming the contract is not modified).\n\n**Conclusion:** KLEDAI presents a mixed risk profile. The recent price momentum and multi-exchange presence are positive signs, but the contract mutability warning, selling pressure, and high volatility warrant caution. Investors should conduct additional due diligence, particularly regarding the project's AI use case and development team, before making investment decisions. The token's inclusion in the Believe.app Ecosystem may provide additional context for its long-term value proposition, but this information was not available in the provided data.",
+    "dexData": {
+      "fdv": 18688921,
+      "url": "https://dexscreener.com/solana/diy8bjcvuqwetxarxbadekbysph8mjnwmj9vodmshykv",
+      "info": {
+        "header": "https://cdn.dexscreener.com/cms/images/3b1234da77992b68b7aee71a6068dd8db300f57a12ab16711c0d027fb2f644f9?width=1500&height=500&quality=95&format=auto",
+        "socials": [
+          {
+            "url": "https://x.com/useKled",
+            "type": "twitter"
+          },
+          {
+            "url": "https://www.instagram.com/usekled/",
+            "type": "instagram"
+          }
+        ],
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/306742b86a4b6ad15424f9789876cb5b8018508a3b4fb4c20f61197e6662e8c6?width=800&height=800&quality=95&format=auto",
+        "websites": [
+          {
+            "url": "https://www.kled.ai/",
+            "label": "Website"
+          }
+        ],
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm?timestamp=1782904800000"
+      },
+      "txns": {
+        "h1": {
+          "buys": 7,
+          "sells": 12
+        },
+        "h6": {
+          "buys": 63,
+          "sells": 124
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 2
+        },
+        "h24": {
+          "buys": 627,
+          "sells": 925
+        }
+      },
+      "dexId": "meteora",
+      "labels": [
+        "DLMM"
+      ],
+      "volume": {
+        "h1": 675.46,
+        "h6": 16267.35,
+        "m5": 16.69,
+        "h24": 321724.95
+      },
+      "chainId": "solana",
+      "priceUsd": "0.01868",
+      "baseToken": {
+        "name": "KLEDAI",
+        "symbol": "KLED",
+        "address": "1zJX5gRnjLgmTpq5sVwkq69mNDQkCemqoasyjaPW6jm"
+      },
+      "liquidity": {
+        "usd": 138621.63,
+        "base": 1440201,
+        "quote": 1486.4322
+      },
+      "marketCap": 18688921,
+      "quoteToken": {
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "address": "So11111111111111111111111111111111111111112"
+      },
+      "pairAddress": "Diy8bJcVUqwEtXaRXBADEKBYSpH8MJNwmJ9vodMsHyKv",
+      "priceChange": {
+        "h1": -0.95,
+        "h6": -3.03,
+        "m5": 0.12,
+        "h24": 2.46
+      },
+      "priceNative": "0.0002486",
+      "pairCreatedAt": 1760217909000
+    },
+    "tweetsData": null,
+    "securityData": null,
+    "holdersData": null,
+    "marketData": null,
+    "createdAt": "2026-10-29T08:47:54.670Z",
+    "updatedAt": "2026-10-29T08:47:54.670Z",
+    "conversation": {
+      "id": "cmvtaw2zy000ci6072wyytjal",
+      "reportId": "cmvtaw2zy000bi607olpzctwj",
+      "createdAt": "2026-10-29T08:47:54.670Z",
+      "updatedAt": "2026-10-29T08:57:57.018Z",
+      "messages": [
+        {
+          "id": "cmvtb8uuh0016l207h7u259yt",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "user",
+          "content": "Turn 1 \u2014 The report shows 925 sells versus 627 buys in 24 hours, a net transaction-count deficit of 298 sells, yet KLED posted +59.56% over 7 days and +74.32% over 30 days. With only $138,621 of reported liquidity, is this genuine accumulation, or can the price rise be explained by a small number of larger buys lifting Meteora DLMM bins while numerous smaller sells hit shallow liquidity? Reconcile the count imbalance with the price action using dollar-denominated buy/sell flow rather than transaction counts.",
+          "timestamp": "2026-10-29T08:57:49.812Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8vls0018l207wl3ocj1u",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "assistant",
+          "content": "The transaction mix is sell-heavy: 925 of 1,552 transactions were sells, or 59.60%, versus 40.40% buys; sells exceeded buys by 47.53%. That alone does not establish net distribution because transaction counts contain no trade-size information. A few large market buys can move a concentrated-liquidity DLMM materially while many small sells create a negative count imbalance. The report does not provide 24-hour dollar volume, buy-volume/sell-volume split, or active-bin liquidity, so it cannot substantiate either net accumulation or net distribution. REX should require: (1) aggregate buy USD notional greater than sell USD notional over the same 24-hour window; (2) net KLED outflow from DEX pools into non-exchange wallets; and (3) price impact measured at fixed notional sizes. Without those data, the +59.56% 7-day and +74.32% 30-day gains are compatible with both genuine accumulation and thin-book, low-float-style price lifting despite the stated near-full supply.",
+          "timestamp": "2026-10-29T08:57:50.951Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8wiy001al207l4i8xxyw",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "user",
+          "content": "Turn 2 \u2014 The report labels dilution risk minimal because 999,790,215 of the 1,000,000,000 maximum KLED supply is circulating, leaving only 209,785 KLED, or roughly 0.02%, uncirculated. But CoinGecko's contract warning says the creator can modify the contract, including minting additional tokens, changing fees, or disabling sells. Why should the 99.98% circulating/max-supply ratio be treated as meaningful tokenomic protection if mint authority or upgrade authority remains live, and what revenue capture exists to offset that governance risk?",
+          "timestamp": "2026-10-29T08:57:51.929Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8xmp001cl207a4cs0r06",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "assistant",
+          "content": "It should not be treated as unconditional protection. The reported residual supply is only 209,785 KLED, equal to 0.02098% of the stated 1,000,000,000 maximum supply, so scheduled or disclosed supply overhang appears negligible under the current cap. However, an active mint or upgrade pathway makes the stated maximum supply a governance assumption rather than a hard economic constraint. If the creator can alter minting, fees, or sellability, the relevant dilution ceiling is not the reported 1,000,000,000 maximum; it is the effective authority-controlled ceiling, which the excerpt does not quantify. Likewise, the excerpt provides no protocol revenue, fee-burn, buyback, staking yield, or token-value-accrual data. REX should therefore classify the 99.98% ratio as conditional and require on-chain proof that mint authority is revoked or permanently capped, upgrade authority is null or controlled by a timelocked multisig, transfer/sell restrictions cannot be selectively changed, and any protocol revenue has a disclosed, auditable route to KLED holders or token sinks.",
+          "timestamp": "2026-10-29T08:57:53.437Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8ykf001el2077r8ho9qt",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "user",
+          "content": "Turn 3 \u2014 Following the 925-sell/627-buy imbalance, the +59.56% 7-day gain, and just $138,621 in liquidity, set falsifiable on-chain thresholds that would distinguish accumulation from distribution. Specifically, what maximum slippage in bps, what DLMM active-tick depletion limit, and what whale-retention standard must hold before calling the move accumulation rather than a shallow-liquidity distribution rally?",
+          "timestamp": "2026-10-29T08:57:54.550Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8zp9001gl20712v71sbc",
+          "conversationId": "cmvtaw2zy000ci6072wyytjal",
+          "role": "assistant",
+          "content": "Use a pre-registered 7-day monitoring test rather than a narrative label. Accumulation requires all three conditions: (1) for a fixed $1,386.21 test trade, equal to 1.00% of the reported $138,621 liquidity, simulated and executed buy-side slippage must remain at or below 100 bps and sell-side slippage at or below 150 bps; a wider sell-side result signals fragile exit liquidity. (2) Across the primary Meteora DLMM pool, no more than 20% of active liquidity may be removed from the price-relevant active-bin range over 24 hours, and the market must not traverse more than 10 consecutive liquidity bins on a $1,386.21 sell simulation; either event indicates tick depletion rather than durable depth. (3) Define whales before measurement as wallets holding at least 0.10% of the 999,790,215 circulating KLED, approximately 999,790 KLED. At least 70% of that cohort's starting balance must be retained after 7 days, while the cohort must show net non-exchange accumulation rather than net transfers to identified CEX/DEX sale routes. Failure of any condition\u2014especially persistent sell dominance above the reported 925 versus 627 count pattern combined with worsening sell slippage\u2014classifies the move as likely distribution or liquidity-driven price support, not confirmed accumulation.",
+          "timestamp": "2026-10-29T08:57:56.080Z",
+          "followupKind": null
+        }
+      ]
+    }
+  }
+}

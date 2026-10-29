@@ -1,0 +1,1342 @@
+{
+  "ok": true,
+  "report": {
+    "id": "cmvtavkv70002i607xhak74kk",
+    "userId": "cmvtatm8c0001kz075dqtzks5",
+    "contractAddress": "6gmafsys4gk3fdao5fzzysqppzawsa4rujhacpmpungx",
+    "ticker": "STONK",
+    "projectName": "STONK",
+    "chain": "solana",
+    "reportType": "crypto",
+    "content": "# STONK ($STONK) - Technical Research Report\n\n**Blockchain:** Solana\n**Contract Address:** `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx`\n**Report Date:** September 4, 2026\n\n---\n\n## 1. What It Is\n\nSTONK is a Solana-based token operating within the broader Solana ecosystem and launchpad category. The project is associated with \"StonkFun\" (accessible via stonkfun.xyz), which positions itself within the Solana DeFi and launchpad infrastructure space. The token is paired primarily against Wrapped SOL (WSOL) on the Meteora decentralized exchange, with additional liquidity pools across Orca, Raydium CLMM, and other venues.\n\nThe project's social presence is anchored by its Twitter handle **@LaunchOnSF** and Telegram channel **@StonkFunXyz**, indicating that STONK is closely tied to a launchpad platform (\"SF\" likely referring to StonkFun). The token has been categorized by CoinGecko under \"Solana Ecosystem\" and \"Launchpad,\" suggesting its utility is intertwined with token launch activities on Solana.\n\nSTONK has demonstrated substantial market traction, with a fully diluted valuation of approximately **$18.87\u201321.3 million** depending on the data source timestamp. The token launched recently (pair creation timestamp of August 2026) and has experienced significant price appreciation since its all-time low, gaining over **1,100%** from its bottom.\n\n---\n\n## 2. Holder Analytics\n\n**Note:** This section is only applicable to BNB Smart Chain tokens. STONK is deployed on Solana; therefore, holder analytics data is not applicable for this report.\n\n**Data not available** \u2014 STONK operates on the Solana blockchain, and holder distribution analytics specific to BNB Smart Chain are not applicable for this token.\n\n---\n\n## 3. Safety Analytics\n\n**Note:** This section is only applicable to BNB Smart Chain tokens. STONK is deployed on Solana; therefore, BNB-specific security analytics are not applicable for this report.\n\n**Data not available** \u2014 STONK operates on the Solana blockchain, and BNB Smart Chain security analytics are not applicable for this token. Users should exercise standard due diligence when interacting with any Solana-based token.\n\n---\n\n## 4. Community Chatter\n\nThe community surrounding STONK is notably active and sentiment is predominantly **bullish**, with strong conviction from both retail participants and identified KOLs (Key Opinion Leaders) regarding the token's growth potential.\n\n### Overall Sentiment Analysis\n\nThe prevailing sentiment across the analyzed tweets is **bullish with elements of frustration**. Multiple community members express confidence that STONK's current market capitalization significantly undervalues the project relative to its revenue generation and utility. A particularly notable sentiment comes from @ethimedes, who highlighted that STONK generated **$38,000 in revenue in a single day** against a $19 million market cap, which annualizes to approximately **$14 million in yearly revenue**. This revenue-focused framing suggests the token has real utility beyond speculative trading.\n\n### Key Community Discussions and Trending Topics\n\nA recurring theme across the community chatter is the comparison between STONK's valuation and that of comparable projects. @CryptoBelPH drew a direct comparison noting \"$PONS at 700M, $STONK at 24M \u2014 That's the tweet,\" implying significant upside potential relative to similar projects. Similarly, multiple users including @the_lopetee and @TRAPJNR expressed that Solana's ecosystem could have supported STONK reaching a **$100 million market cap**, with @itxchtrenches projecting \"$STONK will go $500M.\"\n\nThe revenue-generating aspect of the project is a central talking point, with community members positioning STONK as an undervalued asset on Solana. @ethimedes specifically noted, \"Only reason its so low is because its on solana,\" suggesting a belief that the token would command a higher valuation on other chains or centralized platforms. @Wealthyandall echoed this sentiment, stating, \"If $stonk was in Robinhood, it will be trading at $72m.\"\n\n### Engagement Metrics and Social Activity\n\nWhale activity monitoring has been substantial, with multiple whale purchase alerts tracked by @whalewatchalert throughout the observation period. These alerts document purchases ranging from **$3,000 to $14,960** at market caps between **$17.83 million and $21.88 million**. The frequency of these alerts indicates sustained accumulation behavior from larger wallets and identified KOLs.\n\n### Notable Influencer Mentions and Whale Discussions\n\nKOL **@0xdetweiler** has emerged as a prominent figure in the STONK conversation, with multiple purchase alerts documenting their accumulation at various price points. Their commentary suggests strong conviction, noting that STONK \"has got all the makings of a runner.\" The KOL also drew connections between STONK and the broader Solana ecosystem's support infrastructure.\n\n### Caution Flags and Positive Momentum Indicators\n\nWhile the majority of sentiment is bullish, some community members have acknowledged trading challenges. @JdCrypto145 described STONK as \"a rough hold. Yoyo chart,\" indicating price volatility that may test weaker hands. However, this caution is balanced against the broader narrative of revenue generation, ecosystem support, and comparative undervaluation that dominates the community discourse.\n\n---\n\n## 5. Top Tweets\n\n**@ethimedes:**\n> $stonk did 38k revenue yesterday with marketcap of 19m. Thats 14m annualised revenue. Two projects over 6m right now. Only reason its so low is because its on solana.\n\n**@whalewatchalert:**\n> KOL 0xdetweiler just bought $14.96K of $STONK at $17.83M MC \ud83e\udde0\n\n**@CryptoBelPH:**\n> $PONS at 700M $STONK at 24M That's the tweet.\n\n**@0xdetweiler:**\n> $CTO should be higher. CEO actually tweeting about it, embracing it. $STONK and solana support. its got all the makings of a runner.\n\n**@itxchtrenches:**\n> $INDEX will go to $1b - 2b and $STONK will go $500M \ud83d\udcc8\ud83d\udc40 @TheIndexFi @LaunchOnSF\n\n---\n\n## 6. Coin-O-Metry\n\n| Metric | Value |\n|--------|-------|\n| **Token Price** | $0.02130 (DexScreener) / $0.02124516 (CoinGecko) |\n| **Market Cap** | $21,306,995 (DexScreener) / $18,865,508 (CoinGecko) |\n| **All-Time High Price** | $0.03459662 (September 1, 2026) |\n| **All-Time High Market Cap** | Data not explicitly available; implied from ATH price |\n| **24-Hour Price Change** | +3.53% (DexScreener) / +1.73% (CoinGecko) |\n| **24-Hour Volume** | $2,126,553.81 (DexScreener) / $6,942,124 (CoinGecko aggregate) |\n| **Total Holders** | Data not available |\n| **Launch Date & Token Age** | Pair created August 2026 (approximately 1 month old) |\n| **Launchpad** | StonkFun (stonkfun.xyz) |\n| **Contract Address** | `6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx` |\n\n### Additional Market Statistics\n\n| Metric | Value |\n|--------|-------|\n| **Fully Diluted Valuation** | $21,306,995 (DexScreener) |\n| **Total Supply** | 887,980,720.98 STONK |\n| **Max Supply** | 1,000,000,000 STONK |\n| **Circulating Supply** | 887,995,331.56 STONK |\n| **Market Cap / FDV Ratio** | 1.0 |\n| **7-Day Price Change** | +47.02% |\n| **14-Day Price Change** | +208.09% |\n| **30-Day Price Change** | +521.88% |\n| **All-Time Low** | $0.00174774 (August 5, 2026) |\n| **ATL to Current Gain** | +1,115.58% |\n| **Liquidity (USD)** | $822,252.04 |\n| **24H High / Low** | $0.02812927 / $0.01903858 |\n| **CoinGecko Market Cap Rank** | #867 |\n| **Watchlist Users** | 406 |\n\n---\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nSTONK is currently trading at approximately **$0.0213**, having established a wide trading range between its all-time low of **$0.00174774** and its all-time high of **$0.03459662**. The token's price discovery phase has been characterized by significant volatility, with the 30-day price change of +521.88% reflecting the substantial upward momentum since its early August launch. The token is currently trading approximately **38.6% below its all-time high**, which was reached on September 1, 2026, just days before this report.\n\nThe market capitalization of approximately **$18.9\u201321.3 million** positions STONK within the mid-cap range for Solana ecosystem tokens. The fully diluted valuation matches the market cap, indicating that nearly all tokens are in circulation, with only a small reserve of approximately 112 million tokens (11.2% of max supply) not yet outstanding.\n\n### Trading Indicators\n\n**Volume Analysis:** The token demonstrates robust trading activity with 24-hour volume of **$2.13 million** on DexScreener's tracked pair and **$6.94 million** in aggregate volume across all tracked venues per CoinGecko. The buy/sell transaction breakdown shows **4,660 buys versus 3,688 sells** in the last 24 hours, indicating net buying pressure. The buy-to-sell ratio of approximately **1.26:1** suggests accumulation behavior, though the 6-hour window shows a tighter ratio (913 buys vs. 629 sells), which may indicate cooling momentum.\n\n**Price Momentum:** The 24-hour price change of +3.53% (DexScreener) indicates modest positive momentum, while the 1-hour change of +0.28% suggests short-term stabilization. The 6-hour change of -2.65% indicates some intraday pullback, though the broader trend remains positive. The significant 7-day (+47.02%), 14-day (+208.09%), and 30-day (+521.88%) gains demonstrate strong medium-term momentum, though such rapid appreciation carries inherent pullback risks.\n\n**Liquidity Assessment:** The tracked liquidity pool on Meteora holds **$822,252** in total value, with approximately 3,964,899 STONK tokens and 7,088.51 Wrapped SOL. This liquidity level is moderate and provides reasonable trading depth for the current market cap, though the liquidity-to-market-cap ratio of approximately 4.4% may warrant monitoring for potential slippage concerns on larger trades.\n\n### On-Chain Metrics\n\nSTONK's supply distribution shows that **887,995,331.56 tokens** are currently in circulation out of a maximum supply of **1 billion tokens**, representing approximately 88.8% of the maximum supply. The near-unity market cap to FDV ratio (1.0) indicates that the market is valuing the token based on its current circulating supply with minimal dilution overhang.\n\nTransaction data from DexScreener shows active trading across multiple timeframes, with **8,348 total transactions** in the last 24 hours. The 5-minute window showing zero transactions suggests either a temporary lull in trading or data reporting gaps at the time of snapshot.\n\n### Exchange Listings & Availability\n\nSTONK maintains a strong multi-venue presence within the Solana ecosystem:\n\n| Exchange | Trading Pair(s) | Notes |\n|----------|----------------|-------|\n| **Meteora** | STONK/SOL, STONK/USDC, STONK/Other | Primary venue per DexScreener; DLMM pools |\n| **Orca** | STONK/SOL, STONK/USDC | Multiple pools with varying volumes |\n| **Raydium (CLMM)** | STONK/USDC, STONK/Other | Active concentrated liquidity pools |\n| **LBank** | STONK/USDT | Centralized exchange listing |\n| **DefiTuna** | STONK/Other | Fusion AMM pool |\n\nThe LBank listing provides the token with its primary centralized exchange venue, offering a USDT trading pair that enhances accessibility for non-Solana-native traders. The diversity of decentralized exchange venues across Meteora, Orca, and Raydium provides robust trading infrastructure.\n\n### Recent News & Updates\n\nBased on available social data, STONK's recent developments center on its revenue generation capabilities and growing ecosystem recognition. The project reported **$38,000 in daily revenue** against a $19 million market cap, which community members highlight as an annualized revenue run rate of approximately **$14 million**. This revenue metric suggests the underlying StonkFun platform is generating meaningful economic activity.\n\nThe community discourse also references the project's connection to @TheIndexFi and the broader launchpad ecosystem, suggesting potential strategic relationships or integrations. The token's categorization under \"Launchpad\" on CoinGecko further supports its positioning within the token launch infrastructure space.\n\n### Risk Assessment\n\n**Volatility Risk:** STONK exhibits extreme price volatility, a characteristic common among recently launched tokens. The token's 30-day gain of over 500% followed by a 38.6% drawdown from its all-time high illustrates the potential for significant price swings in both directions. Traders should be prepared for substantial short-term fluctuations.\n\n**Concentration Risk:** While specific holder data is not available for this Solana-based token, the frequent whale purchase alerts suggest the presence of larger holders whose trading activity could impact price dynamics. The involvement of KOLs, while positive for visibility, also introduces potential for coordinated sell pressure if these figures choose to exit positions.\n\n**Liquidity Risk:** The $822,252 in tracked liquidity against a market cap exceeding $18 million creates a liquidity ratio of approximately 4.4%, which may result in meaningful price impact on larger trades. This is partially mitigated by the token's presence across multiple venues, which provides aggregate liquidity depth.\n\n**Platform Risk:** As a token associated with a launchpad platform (StonkFun), STONK's value is partially dependent on the continued operation and success of the underlying platform. Revenue generation is a positive indicator, but the project's relatively short operating history limits the ability to assess long-term sustainability.\n\n**Regulatory Risk:** The token's classification and the broader regulatory environment for cryptocurrency launchpads and revenue-sharing tokens remain uncertain. Changes in regulatory frameworks could impact the project's operations.\n\n**Comparative Valuation Risk:** Community discussions frequently compare STONK's valuation unfavorably to similar projects (e.g., \"$PONS at 700M, $STONK at 24M\"), which creates expectations of significant upside. If these comparisons prove unfounded or if the market does not re-rate the token as expected, sentiment could shift negatively.\n\n---\n\n## Disclaimer\n\nThis report is for informational purposes only and does not constitute financial advice. Cryptocurrency investments carry significant risk, including the potential loss of principal. Always conduct your own research and consult with a qualified financial advisor before making investment decisions. The data presented in this report was accurate as of September 4, 2026, and may have changed since the time of writing.",
+    "dexData": {
+      "fdv": 21306995,
+      "url": "https://dexscreener.com/solana/48m3trdbvymebf5rctfvagqccazdchvmeg3vpbrmgt8m",
+      "info": {
+        "header": "https://cdn.dexscreener.com/cms/images/xs4xvIESQllaMzR-?width=1500&height=500&quality=95&format=auto",
+        "socials": [
+          {
+            "url": "https://x.com/LaunchOnSF",
+            "type": "twitter"
+          },
+          {
+            "url": "https://t.me/StonkFunXyz",
+            "type": "telegram"
+          }
+        ],
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/bJ1wrZe7IYIknT9a?width=800&height=800&quality=95&format=auto",
+        "websites": [
+          {
+            "url": "https://www.stonkfun.xyz/",
+            "label": "Website"
+          }
+        ],
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx?timestamp=1788519900000"
+      },
+      "txns": {
+        "h1": {
+          "buys": 273,
+          "sells": 205
+        },
+        "h6": {
+          "buys": 913,
+          "sells": 629
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 4660,
+          "sells": 3688
+        }
+      },
+      "dexId": "meteora",
+      "labels": [
+        "DLMM"
+      ],
+      "volume": {
+        "h1": 133166.01,
+        "h6": 569948.06,
+        "m5": 0,
+        "h24": 2126553.81
+      },
+      "chainId": "solana",
+      "priceUsd": "0.02130",
+      "baseToken": {
+        "name": "STONK",
+        "symbol": "STONK",
+        "address": "6GmAFSYs4gk3FDao5FzzySQpPZaWsa4rUJHacpMpUNgx"
+      },
+      "liquidity": {
+        "usd": 822252.04,
+        "base": 3964899,
+        "quote": 7088.5084
+      },
+      "marketCap": 21306995,
+      "quoteToken": {
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "address": "So11111111111111111111111111111111111111112"
+      },
+      "pairAddress": "48M3tRdbVYmEbf5rCTFVAgqCCaZdChVmeg3VPBrmgT8m",
+      "priceChange": {
+        "h1": 0.28,
+        "h6": -2.65,
+        "h24": 3.53
+      },
+      "priceNative": "0.0002047",
+      "pairCreatedAt": 1785967409000
+    },
+    "tweetsData": [
+      {
+        "id": "2095821084847214859",
+        "url": "https://x.com/whalewatchalert/status/2095821084847214859",
+        "lang": "en",
+        "text": "KOL 0xdetweiler just bought $14.96K of $STONK at $17.83M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 10:27:39 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 4199,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095821084847214859",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095800710990627072",
+        "url": "https://x.com/TRAPJNR/status/2095800710990627072",
+        "lang": "en",
+        "text": "If SOL can\u2019t get $Stonk to $100m it could be done medium term \ud83e\udd72",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "806074210342711296",
+          "name": "Trap",
+          "canDm": false,
+          "location": "Australia",
+          "userName": "TRAPJNR",
+          "username": "TRAPJNR",
+          "createdAt": "Tue Dec 06 09:54:02 +0000 2016",
+          "followers": 8772,
+          "following": 3907,
+          "mediaCount": 10022,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/806074210342711296/1663132048",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 57928,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2091021699248742400/p1Pgm6gc_normal.jpg",
+          "favouritesCount": 195396,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 09:06:42 +0000 2026",
+        "likeCount": 7,
+        "viewCount": 280,
+        "quoteCount": 0,
+        "replyCount": 2,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095800710990627072",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095785849124163922",
+        "url": "https://x.com/ethimedes/status/2095785849124163922",
+        "lang": "en",
+        "text": "$stonk did 38k revenue yesterday with marketcap of 19m. Thats 14m annualised revenue. Two projects over 6m right now. \n\nOnly reason its so low is because its on solana.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "832318610425204738",
+          "name": "Star-lord",
+          "canDm": false,
+          "location": "",
+          "userName": "ethimedes",
+          "username": "ethimedes",
+          "createdAt": "Thu Feb 16 19:59:55 +0000 2017",
+          "followers": 4802,
+          "following": 3944,
+          "mediaCount": 1414,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/832318610425204738/1658345705",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 28838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1549694565891940353/kan1MBwf_normal.jpg",
+          "favouritesCount": 58573,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 08:07:38 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 581,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095785849124163922",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095783055952879996",
+        "url": "https://x.com/0xdetweiler/status/2095783055952879996",
+        "lang": "en",
+        "text": "$CTO should be higher. \n\nCEO actually tweeting about it, embracing it. \n\n$STONK and solana support. its got all the makings of a runner.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1518981037514186752",
+          "name": "Theo",
+          "canDm": true,
+          "location": "",
+          "userName": "0xdetweiler",
+          "username": "0xdetweiler",
+          "createdAt": "Tue Apr 26 15:51:32 +0000 2022",
+          "followers": 25160,
+          "following": 4574,
+          "mediaCount": 1996,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1518981037514186752/1786784394",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 10149,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1937094490080112954"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2088550427776385024/9smlLG0X_normal.jpg",
+          "favouritesCount": 20926,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 07:56:32 +0000 2026",
+        "likeCount": 69,
+        "viewCount": 4488,
+        "quoteCount": 2,
+        "replyCount": 12,
+        "inReplyToId": null,
+        "retweetCount": 5,
+        "bookmarkCount": 0,
+        "conversationId": "2095783055952879996",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095764284856783172",
+        "url": "https://x.com/whalewatchalert/status/2095764284856783172",
+        "lang": "en",
+        "text": "KOL 0xdetweiler just bought $5.98K of $STONK at $18.88M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 06:41:57 +0000 2026",
+        "likeCount": 3,
+        "viewCount": 5945,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095764284856783172",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095759364468408623",
+        "url": "https://x.com/JdCrypto145/status/2095759364468408623",
+        "lang": "en",
+        "text": "$STONK is a rough hold. Yoyo chart",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "926724901272244224",
+          "name": "Cosmic",
+          "canDm": true,
+          "location": "",
+          "userName": "JdCrypto145",
+          "username": "JdCrypto145",
+          "createdAt": "Sat Nov 04 08:16:48 +0000 2017",
+          "followers": 996,
+          "following": 3769,
+          "mediaCount": 228,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/926724901272244224/1712698353",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 4461,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1974082590207299584/4ueNhEly_normal.jpg",
+          "favouritesCount": 15501,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 06:22:24 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 53,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095759364468408623",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095756443790032914",
+        "url": "https://x.com/whalewatchalert/status/2095756443790032914",
+        "lang": "en",
+        "text": "A ANSEM whale just bought $5.14K of $STONK at $19.08M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 06:10:48 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 5999,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095756443790032914",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095753936485359687",
+        "url": "https://x.com/whalewatchalert/status/2095753936485359687",
+        "lang": "en",
+        "text": "A STONK whale just bought $10.2K of $STONK at $18.97M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 06:00:50 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 5825,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095753936485359687",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095729429993468298",
+        "url": "https://x.com/whalewatchalert/status/2095729429993468298",
+        "lang": "en",
+        "text": "A STONK whale just bought $5K of $STONK at $20.79M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 04:23:27 +0000 2026",
+        "likeCount": 6,
+        "viewCount": 6136,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095729429993468298",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095729118692446358",
+        "url": "https://x.com/justfloop/status/2095729118692446358",
+        "lang": "en",
+        "text": "@frittataforever Look at this ding dong with no $stonk",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1790689231926439936",
+          "name": "FLOOP",
+          "canDm": false,
+          "location": "",
+          "userName": "justfloop",
+          "username": "justfloop",
+          "createdAt": "Wed May 15 10:22:55 +0000 2024",
+          "followers": 326,
+          "following": 400,
+          "mediaCount": 893,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1790689231926439936/1788326374",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 3982,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2095007166906376192/QNTZXEPp_normal.jpg",
+          "favouritesCount": 5432,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "BURNT",
+              "id_str": "1964045318355345408",
+              "indices": [
+                0,
+                16
+              ],
+              "screen_name": "frittataforever"
+            }
+          ]
+        },
+        "createdAt": "Fri Sep 04 04:22:13 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 23,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": "2095714693436309688",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095714693436309688",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1964045318355345408",
+        "inReplyToUsername": "frittataforever"
+      },
+      {
+        "id": "2095726091453555062",
+        "url": "https://x.com/itxchtrenches/status/2095726091453555062",
+        "lang": "en",
+        "text": "$INDEX will go to $1b - 2b and $STONK will go $500M \ud83d\udcc8\ud83d\udc40\n\n@TheIndexFi \n@LaunchOnSF",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2042670368737935360",
+          "name": "ItxTalal\ud83d\uddff",
+          "canDm": false,
+          "location": "",
+          "userName": "itxchtrenches",
+          "username": "itxchtrenches",
+          "createdAt": "Fri Apr 10 18:28:03 +0000 2026",
+          "followers": 133,
+          "following": 1033,
+          "mediaCount": 83,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2042670368737935360/1784320942",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 513,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2088341983068917836"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2078100948543590400/fOcENnVe_normal.jpg",
+          "favouritesCount": 1915,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Index",
+              "id_str": "2072789145735385089",
+              "indices": [
+                56,
+                67
+              ],
+              "screen_name": "TheIndexFi"
+            },
+            {
+              "name": "Stonk",
+              "id_str": "1668095655905046529",
+              "indices": [
+                69,
+                80
+              ],
+              "screen_name": "LaunchOnSF"
+            }
+          ]
+        },
+        "createdAt": "Fri Sep 04 04:10:11 +0000 2026",
+        "likeCount": 23,
+        "viewCount": 436,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 3,
+        "bookmarkCount": 0,
+        "conversationId": "2095726091453555062",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095721068413468919",
+        "url": "https://x.com/whalewatchalert/status/2095721068413468919",
+        "lang": "en",
+        "text": "A MET whale just bought $3K of $STONK at $21.88M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 03:50:13 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 5768,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095721068413468919",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095719580706451709",
+        "url": "https://x.com/the_lopetee/status/2095719580706451709",
+        "lang": "en",
+        "text": "Solana could have just supported $Stonk and take it to $100m lol",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "3603319761",
+          "name": "Lope",
+          "canDm": true,
+          "location": "web3",
+          "userName": "the_lopetee",
+          "username": "the_lopetee",
+          "createdAt": "Wed Sep 09 23:45:28 +0000 2015",
+          "followers": 22765,
+          "following": 11637,
+          "mediaCount": 5065,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3603319761/1702150082",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 190510,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1481334870194495492"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1681583796360032256/qyTHizbe_normal.jpg",
+          "favouritesCount": 7984,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 03:44:19 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 643,
+        "quoteCount": 0,
+        "replyCount": 3,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095719580706451709",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095719099150041476",
+        "url": "https://x.com/Disob369/status/2095719099150041476",
+        "lang": "en",
+        "text": "You missed $PONS \nYou missed $CASHCAT \nYou missed $STONK nfts \n\nYou will probably miss the next one too \ud83e\udd23",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1861810698667311104",
+          "name": "Disob",
+          "canDm": true,
+          "location": "Paris, France",
+          "userName": "Disob369",
+          "username": "Disob369",
+          "createdAt": "Wed Nov 27 16:34:33 +0000 2024",
+          "followers": 1307,
+          "following": 1190,
+          "mediaCount": 2019,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1861810698667311104/1786038812",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 26169,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2084932661466861826"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2085424044124278784/3hvCocX3_normal.jpg",
+          "favouritesCount": 35088,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 03:42:24 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 106,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095719099150041476",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095718659276579076",
+        "url": "https://x.com/whalewatchalert/status/2095718659276579076",
+        "lang": "en",
+        "text": "KOL 0xdetweiler just bought $9.97K of $STONK at $21.07M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 03:40:39 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 5332,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095718659276579076",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095716663492559025",
+        "url": "https://x.com/whalewatchalert/status/2095716663492559025",
+        "lang": "en",
+        "text": "A STONK whale just bought $5K of $STONK at $20.65M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 03:32:43 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 5795,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095716663492559025",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095706384088391821",
+        "url": "https://x.com/CryptoBelPH/status/2095706384088391821",
+        "lang": "en",
+        "text": "$PONS at 700M\n$STONK at 24M\n\nThat\u2019s the tweet.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "770033653493690370",
+          "name": "belmar",
+          "canDm": true,
+          "location": "Philippines",
+          "userName": "CryptoBelPH",
+          "username": "CryptoBelPH",
+          "createdAt": "Sun Aug 28 23:01:44 +0000 2016",
+          "followers": 1935,
+          "following": 2684,
+          "mediaCount": 2267,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/770033653493690370/1744356790",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 22180,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1910596964850569217/k3CmGqRp_normal.jpg",
+          "favouritesCount": 23302,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 02:51:52 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 83,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 1,
+        "conversationId": "2095706384088391821",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095686517620695455",
+        "url": "https://x.com/Zenwarrior113/status/2095686517620695455",
+        "lang": "en",
+        "text": "@Benz_OnTheRun Best content by far on $stonk",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": true,
+        "tweeter": {
+          "id": "1307516443164995584",
+          "name": "zen \ud83d\udc68\u200d\ud83d\ude80",
+          "canDm": true,
+          "location": "",
+          "userName": "Zenwarrior113",
+          "username": "Zenwarrior113",
+          "createdAt": "Sun Sep 20 03:06:37 +0000 2020",
+          "followers": 9873,
+          "following": 543,
+          "mediaCount": 3824,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1307516443164995584/1707625204",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 11976,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2093387033431728128/THecPUTZ_normal.jpg",
+          "favouritesCount": 17880,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Benz",
+              "id_str": "1334975591855104007",
+              "indices": [
+                0,
+                14
+              ],
+              "screen_name": "Benz_OnTheRun"
+            }
+          ]
+        },
+        "createdAt": "Fri Sep 04 01:32:56 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 65,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": "2095677182739984587",
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095677182739984587",
+        "isLimitedReply": false,
+        "inReplyToUserId": "1334975591855104007",
+        "inReplyToUsername": "Benz_OnTheRun"
+      },
+      {
+        "id": "2095682241921704418",
+        "url": "https://x.com/Wealthyandall/status/2095682241921704418",
+        "lang": "en",
+        "text": "If $stonk was in Robinhood, it will be trading at $72m. I am truly sorry for the hardworking team doing all they can but people will focus on Robimhood moving on",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1787752042024361984",
+          "name": "Peace Maker",
+          "canDm": false,
+          "location": "",
+          "userName": "Wealthyandall",
+          "username": "Wealthyandall",
+          "createdAt": "Tue May 07 07:51:30 +0000 2024",
+          "followers": 36,
+          "following": 96,
+          "mediaCount": 108,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1787752042024361984/1788464296",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 2507,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2088913950305861803"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1975567354948984832/XPvrZUIt_normal.jpg",
+          "favouritesCount": 6406,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 01:15:57 +0000 2026",
+        "likeCount": 0,
+        "viewCount": 40,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095682241921704418",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2095681779722047612",
+        "url": "https://x.com/whalewatchalert/status/2095681779722047612",
+        "lang": "en",
+        "text": "A STONK whale just bought $5K of $STONK at $21.35M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 187938,
+          "following": 101,
+          "mediaCount": 35578,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 171838,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5816,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Fri Sep 04 01:14:06 +0000 2026",
+        "likeCount": 5,
+        "viewCount": 5978,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2095681779722047612",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      }
+    ],
+    "securityData": null,
+    "holdersData": null,
+    "marketData": null,
+    "createdAt": "2026-10-29T08:47:31.171Z",
+    "updatedAt": "2026-10-29T08:47:31.171Z",
+    "conversation": {
+      "id": "cmvtavkv70003i607yd89dy4f",
+      "reportId": "cmvtavkv70002i607xhak74kk",
+      "createdAt": "2026-10-29T08:47:31.171Z",
+      "updatedAt": "2026-10-29T08:56:17.425Z",
+      "messages": [
+        {
+          "id": "cmvtb6poz000el207spskx3zy",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "user",
+          "content": "With $822,252 of tracked liquidity versus a market cap above $18 million (the report\u2019s 4.4% liquidity ratio), how do you reconcile the reported 38.6% drawdown from ATH with an accumulation narrative when the excerpt provides no 24h buy/sell transaction counts or 24h volume? What volume-to-liquidity turnover and buy/sell-count imbalance would be required to show that the decline was absorbed rather than distributed?",
+          "timestamp": "2026-10-29T08:56:09.691Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb6ql2000gl2071zuy8bp6",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "assistant",
+          "content": "The report does not provide the buy count, sell count, or 24h volume needed to validate an orderflow-absorption claim. Quantitatively, $822,252 of liquidity is only 4.57% of an $18 million market cap and 4.34% of an $18.87 million FDV; therefore, relatively modest net selling can produce a 38.6% drawdown. A defensible accumulation reading requires venue-level data showing: (1) sustained 24h turnover above 1.0x tracked liquidity, or more than $822,252/day, while price stabilizes; (2) buy transactions exceeding sell transactions by at least 1.25x; and (3) net token outflows from DEX buyer wallets into retained wallets rather than rapid round-trip selling. Without those data, the 38.6% decline is consistent with either profit-taking or insufficient bid depth.",
+          "timestamp": "2026-10-29T08:56:11.001Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb6ro5000il2070hcj6fgi",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "user",
+          "content": "The report cites $38,000 in daily revenue, approximately $14 million annualized, against an $18.87\u201321.3 million FDV, yet it gives no circulating supply, circulating/FDV ratio, token-revenue capture rate, vesting schedule, or Solana SPL mint/freeze-authority status. What portion of the stated $14 million annualized revenue must accrue to STONK holders to justify that FDV, and what dilution or contract-mutability evidence would invalidate the valuation?",
+          "timestamp": "2026-10-29T08:56:12.227Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb6ss20002l108ea8ekf2s",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "assistant",
+          "content": "At an $18.87\u201321.3 million FDV, the stated $14 million annualized platform revenue implies an FDV/revenue multiple of 1.35x\u20131.52x. But platform revenue is not token revenue: if 0% is contractually or programmatically directed to buybacks, burns, staking, treasury distributions, or another token-holder mechanism, the implied token revenue capture is 0 regardless of the $38,000 daily figure. For illustration, a 10% capture rate yields $1.4 million/year to the token economy, implying a 13.5x\u201315.2x FDV/captured-revenue multiple; a 25% capture rate yields $3.5 million/year and a 5.4x\u20136.1x multiple. The thesis is invalidated if mint authority remains active, freeze authority can restrict holders, or unlocked/controlled supply can expand materially without offsetting demand. The report supplies none of the required circulating-supply, authority, or vesting data, so dilution-adjusted valuation cannot be calculated.",
+          "timestamp": "2026-10-29T08:56:13.636Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb6tz1000kl207mci5w3m4",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "user",
+          "content": "Given the $822,252 tracked-liquidity figure, the 38.6% drawdown from ATH, and the claimed $38,000 daily revenue, specify falsifiable on-chain thresholds for the next 7 and 30 days\u2014maximum buy-side slippage in bps, LP/tick-depth depletion, and whale-wallet retention\u2014that would distinguish genuine accumulation from distribution across Meteora, Orca, and Raydium CLMM.",
+          "timestamp": "2026-10-29T08:56:15.178Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb6uvc000ml207nmvsb6qy",
+          "conversationId": "cmvtavkv70003i607yd89dy4f",
+          "role": "assistant",
+          "content": "A falsifiable accumulation framework is: (1) a $10,000 buy should execute with median realized slippage below 150 bps on the primary Meteora WSOL pool and below 250 bps on consolidated Meteora/Orca/Raydium routing for at least 7 consecutive days; (2) active liquidity within \u00b15% of spot should not decline by more than 20% from its day-0 level, while total tracked liquidity remains at or above 80% of $822,252, or $657,802; (3) wallets that each purchased at least 0.10% of the $18.87\u201321.3 million FDV\u2014roughly $18,870\u2013$21,300 of STONK exposure\u2014should retain at least 75% of their acquired tokens after 7 days and 60% after 30 days; and (4) net DEX buyer-wallet balances should rise despite the 38.6% drawdown. Distribution is indicated if $10,000 buy slippage persistently exceeds 300 bps, \u00b15% depth falls more than 35%, tracked liquidity drops below $534,464, or qualifying whale cohorts retain less than 50% after 7 days while sending tokens back to DEX pools.",
+          "timestamp": "2026-10-29T08:56:16.549Z",
+          "followupKind": null
+        }
+      ]
+    }
+  }
+}

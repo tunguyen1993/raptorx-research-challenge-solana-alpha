@@ -1,0 +1,1354 @@
+{
+  "ok": true,
+  "report": {
+    "id": "cmvtavmfw0005i607g95732yl",
+    "userId": "cmvtatm8c0001kz075dqtzks5",
+    "contractAddress": "4k1m7gamdkzrxqn68yuzad767w57fw7ykw69dg3umeta",
+    "ticker": "RAWR",
+    "projectName": "Jurassic",
+    "chain": "solana",
+    "reportType": "crypto",
+    "content": "# Technical Research Report: Jurassic ($RAWR)\n\n## 1. What It Is\n\n**Jurassic ($RAWR)** is a Solana-based cryptocurrency project that positions itself as the \"first dinosaur company\" in crypto, combining elements of meme culture, decentralized finance, and tokenized real-world assets (RWAs). The project launched via the MetaDAO platform, a novel futarchy-based fundraising mechanism, and has raised over $200K in its initial ICO.\n\nThe token contract address is **4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta** on the Solana blockchain. Jurassic operates with a unique narrative that blends dinosaur-themed branding with serious financial innovation, including plans to tokenize physical dinosaur assets (the first being \"Deaton\") through a futarchy-governed acquisition model.\n\nKey characteristics include:\n- **Blockchain:** Solana\n- **Trading Pair:** RAWR/USDC on Meteora DEX\n- **Launch Platform:** MetaDAO (Futarchy-based ICO)\n- **Website:** https://jurassic.finance/\n- **Twitter/X:** @JurassicFi\n- **Total Supply:** Approximately 25.8 million tokens (implied by FDV/price calculation)\n- **Narrative:** Tokenized dinosaurs, futarchy governance, meme coin with utility\n\n## 2. Holder Analytics\n\n*This section is not applicable for Solana-based tokens. Holder analytics are only provided for BNB Smart Chain tokens.*\n\n## 3. Safety Analytics\n\n*This section is not applicable for Solana-based tokens. Safety analytics are only provided for BNB Smart Chain tokens.*\n\n## 4. Community Chatter\n\nThe sentiment surrounding **$RAWR** on X (formerly Twitter) presents a fascinating dichotomy. On one hand, the project has garnered significant attention from the MetaDAO ecosystem and crypto influencers who view it as a pioneering experiment in futarchy-based capital formation. The community is buzzing about the \"tokenized dinosaur\" concept, with @HotcoinGlobal calling it a natural evolution from NFTs to memecoins to RWAs, and finally to \"Tokenized Dinosaurs.\" This narrative has attracted a dedicated following who believe in the long-term vision of building the first dinosaur company.\n\nHowever, there is a notable undercurrent of caution and skepticism. Analyst @argus_ab observed that \"zero tweets about $RAWR in the last 24 hours\" and that \"CT has completely ghosted it,\" suggesting a lack of organic community engagement despite whale activity. The same analyst noted a mixed on-chain picture: 9 whale buys totaling $27.2K but 12 sells totaling $32.1K, resulting in a net outflow of $2.6K with 4 full exits. This indicates that while some large holders are accumulating, others are taking profits or exiting entirely.\n\nThe MetaDAO ecosystem is rallying around $RAWR as a flagship project. @vukan0x declared it \"the most successful MetaDAO raise by ICO return to date,\" and @altcoinpediax highlighted it alongside other notable MetaDAO projects like $CRED and $LASO. The project's innovative approach to governance and asset tokenization has attracted serious attention from KOLs and whales, with @whalewatchalert reporting multiple whale buys in the $3K-$6.5K range at market caps between $1.9M and $2.3M.\n\nOverall sentiment is cautiously bullish with a speculative edge. The project's unique value proposition and MetaDAO backing provide strong fundamentals, but the lack of sustained organic chatter and mixed whale behavior suggest that broader market adoption is still developing. The community appears to be in a \"wait and see\" mode, with true believers accumulating while skeptics watch from the sidelines.\n\n## 5. Top Tweets\n\n**@JurassicFi:** $RAWR is officially live on @Solana Contract address: 4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta @MetaDAOProject ICO claim page: https://t.co/jA8tIzqXnc\n\n**@JurassicFi:** Everyone wants to be a unicorn. We're building the first dinosaur company. Below are the details of the first dinosaur acquisition raise. The target for the Deaton raise will be 660,000 USDC. 600,000 will go to the escrow for the seller, and 60,000 will be sent to the $RAWR treasury. The supply of tokenized Deaton will be 1,000,000. 95% of tokens will be claimable by allocators, pro-rata, and 5% of the tokens will be sent to the $RAWR treasury.\n\n**@argus_ab:** zero tweets about $RAWR in the last 24 hours. not one mention. CT has completely ghosted it. yet I've been tracking silent KOL buys. one loaded $1.9K at $1.3M mcap with 9.0 hotness and is still 100% in. another sniper entered $2.2K at $1.6M with another 9.0 hotness and hasn't sold a token. the bigger picture is mixed. 9 whale buys for $27.2K but 12 sells for $32.1K. net outflow $2.6K with 4 full exits.\n\n**@vukan0x:** OFFICIAL: @JurassicFi is the most successful @MetaDAOProject raise by ICO return to date. two locked in balkan dudes governed by futarchy going against the world. we will make all the owners proud. the ticker is $RAWR \ud83e\udd95\n\n**@altcoinpediax:** MetaDAO is quietly building one of the strongest ecosystems in crypto. Projects that have raised over $200K on MetaDAO: \u2022 $CRED \u2014 $4.0M \u2022 $LASO \u2014 $1.0M \u2022 $RAWR \u2014 $200K + Notable ecosystem tokens to keep on your radar: \u2022 $AVICI \u2022 $SOLO \u2022 $UMBRA \u2022 $OMFG \u2022 $PAY \u2022 $P2P \u2022 $SUPER \u2022 $FLASH\n\n## 6. Coin-O-Metry\n\n| Metric | Value |\n|--------|-------|\n| **Token Price** | $0.04237 USD |\n| **Market Cap** | $1,093,262 |\n| **All-Time High Price** | Data not available |\n| **All-Time High Market Cap** | Data not available |\n| **24-Hour Price Change** | -22.18% |\n| **24-Hour Volume** | $213,268.16 |\n| **Total Holders** | Data not available |\n| **Launch Date** | Approximately July 2024 (pair created timestamp: 1778846862000) |\n| **Token Age** | Data not available |\n| **Launchpad** | MetaDAO (Futarchy ICO) |\n| **Contract Address** | `4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta` |\n| **Liquidity (USD)** | $116,447.63 |\n| **Fully Diluted Valuation** | $1,093,262 |\n\n## 7. Technical Analysis\n\n### Price & Market Overview\n\nThe current market price of $RAWR stands at **$0.04237 USD** with a market capitalization of **$1.09 million**. The token experienced a significant 24-hour decline of **-22.18%**, which is substantial even by cryptocurrency standards. The 6-hour and 1-hour price changes show continued downward pressure at -9.79% and -2.96% respectively, indicating a sustained bearish trend over the past day.\n\nLiquidity sits at **$116,447.63 USD**, which is relatively modest for a project with this market cap. The liquidity-to-market-cap ratio is approximately 10.6%, suggesting that the market may be susceptible to price swings from relatively small trades. The 24-hour volume of **$213,268.16** represents a volume-to-market-cap ratio of 19.5%, indicating moderate trading activity relative to the token's size.\n\nThe pair was created on **July 11, 2024**, making this a relatively young project at approximately 1 month old. The fully diluted valuation (FDV) matches the current market cap at $1.09 million, suggesting that the entire token supply is currently circulating or unlocked.\n\n### Trading Indicators\n\n**Volume Analysis:** The 24-hour trading volume of **$213,268.16** shows active trading, though the breakdown reveals interesting patterns. In the last hour, volume was only $7,631.36, and in the last 6 hours it was $13,460.13, indicating that most of the day's volume occurred earlier in the 24-hour period. The last 5 minutes recorded zero volume, suggesting a potential lull in trading activity.\n\n**Buy/Sell Pressure:** Transaction data reveals a mixed picture. Over the past 24 hours, there were **549 buys** versus **459 sells**, showing a net positive transaction count. However, the 6-hour and 1-hour windows tell a different story: 29 buys vs 57 sells (6-hour) and 12 buys vs 16 sells (1-hour), indicating that selling pressure has intensified recently. This bearish divergence between the 24-hour and shorter timeframes suggests that momentum has shifted against buyers in the most recent period.\n\n**Trend Patterns:** The token appears to be in a short-term downtrend with the 24-hour decline of -22.18%. The 6-hour decline of -9.79% and 1-hour decline of -2.96% suggest the selling pressure may be decelerating, but the trend remains firmly negative. Without clear support levels, the token could continue to decline if selling pressure persists.\n\n### On-chain Metrics\n\n**Holder Distribution:** While specific holder data is not available, the whale activity tracked by @argus_ab provides valuable insights. The analyst reported 9 whale buys totaling $27.2K and 12 whale sells totaling $32.1K, resulting in a net outflow of $2.6K. Four addresses executed full exits, indicating that some early investors have chosen to take profits or cut losses entirely.\n\n**Wallet Behavior:** The analyst noted that one \"sniper\" purchased $16.2K worth of tokens and subsequently took 60% profit on the way up, suggesting that some early traders are treating $RAWR as a short-term play rather than a long-term hold. However, two KOLs were identified who entered at lower market caps ($1.3M and $1.6M) and maintained 100% positions, indicating that some sophisticated investors see long-term value.\n\n**Transaction Patterns:** The 24-hour transaction data shows 549 buys against 459 sells, which is generally positive. However, the whale-level data suggests that large holders are more bearish than retail traders, which could create downward pressure if retail buying subsides.\n\n### Exchange Listings & Availability\n\n$RAWR is currently trading on **Meteora DEX** on the Solana blockchain, paired against **USDC**. The project launched through the **MetaDAO** platform, which is a futarchy-based fundraising mechanism that has gained traction within the Solana ecosystem. The token is not listed on any centralized exchanges (CEXs) based on available data, which is typical for early-stage Solana projects.\n\nThe project has an official website at **jurassic.finance** and maintains an active presence on X/Twitter under the handle **@JurassicFi**. The MetaDAO ICO claim page is available for investors who participated in the initial raise.\n\n### Recent News & Updates\n\nThe most significant recent development is the announcement of the **\"Deaton\" acquisition**\u2014the first tokenized dinosaur asset. According to the official announcement from @JurassicFi, the project aims to raise **660,000 USDC** for the acquisition, with 600,000 going to the seller's escrow and 60,000 to the $RAWR treasury. The tokenized Deaton supply will be 1,000,000 tokens, with 95% claimable by allocators (pro-rata) and 5% allocated to the treasury.\n\nAdditionally, the project has launched **\"Seasonal Rounds\"** with points to earn, and a **Seasonal Distribution Tracking Dashboard** is scheduled to go live on August 10th. This gamification mechanism could help drive engagement and reward loyal holders.\n\nThe project has also received notable ecosystem recognition, with @vukan0x declaring it \"the most successful MetaDAO raise by ICO return to date,\" and @altcoinpediax including it in a list of promising MetaDAO ecosystem tokens.\n\n### Risk Assessment\n\n**Potential Concerns:**\n1. **Lack of Organic Community Engagement:** As noted by @argus_ab, there is a notable absence of organic chatter about $RAWR on social media. The analyst observed \"zero tweets about $RAWR in the last 24 hours\" and questioned whether the project is \"just not catching on.\"\n2. **Mixed Whale Behavior:** The net outflow of $2.6K from whale wallets and 4 full exits suggest that some large holders lack confidence in the near-term trajectory.\n3. **Recent Price Decline:** The -22.18% 24-hour price drop is significant and could indicate a loss of momentum or profit-taking after the initial ICO pump.\n4. **Narrative Dependency:** The project's success heavily relies on the \"tokenized dinosaur\" narrative, which is novel but unproven. Without broader market adoption, the project could struggle to maintain value.\n\n**Volatility Analysis:** With a 24-hour price change of -22.18% and a liquidity pool of only $116K, $RAWR is subject to high volatility. The token's price could experience rapid movements in either direction based on relatively small trading volumes.\n\n**Caution Areas:**\n- The project is very early-stage (approximately 1 month old)\n- No centralized exchange listings provide limited accessibility\n- The futarchy governance model is experimental and untested at scale\n- The \"tokenized dinosaur\" concept, while innovative, may face regulatory and practical challenges\n\n**Positive Indicators:**\n- Strong MetaDAO ecosystem backing and recognition\n- Clear product roadmap with the Deaton acquisition\n- Active development with Seasonal Rounds and dashboard launches\n- KOL and whale accumulation at higher price levels suggests conviction\n- Innovative concept that differentiates from typical meme coins\n\n---\n\n*This report was generated based on available data from Dexscreener, CoinGecko, and social media analysis. All metrics are as of the data timestamp provided. Cryptocurrency investments carry significant risk; this report is for informational purposes only and does not constitute financial advice.*",
+    "dexData": {
+      "fdv": 1093262,
+      "url": "https://dexscreener.com/solana/6wmtehrgbjrsvpg8jaiezzikf7n1itadmwjjwqjchcg1",
+      "info": {
+        "header": "https://cdn.dexscreener.com/cms/images/fMIpR4HsbtTBSLns?width=1500&height=500&quality=95&format=auto",
+        "socials": [
+          {
+            "url": "https://x.com/jurassicfi",
+            "type": "twitter"
+          }
+        ],
+        "imageUrl": "https://cdn.dexscreener.com/cms/images/bhOl_WaHoniWIXl9?width=800&height=800&quality=95&format=auto",
+        "websites": [
+          {
+            "url": "https://jurassic.finance/",
+            "label": "Website"
+          },
+          {
+            "url": "https://www.futard.io/launch/F5A6BchpqGbbBABtgRycJZGkqy2i5AgVJP1VKW5AGotG",
+            "label": "MetaDAO ICO Page"
+          }
+        ],
+        "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta?timestamp=1785411000000"
+      },
+      "txns": {
+        "h1": {
+          "buys": 12,
+          "sells": 16
+        },
+        "h6": {
+          "buys": 29,
+          "sells": 57
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 0
+        },
+        "h24": {
+          "buys": 549,
+          "sells": 459
+        }
+      },
+      "dexId": "metadao",
+      "volume": {
+        "h1": 7631.36,
+        "h6": 13460.13,
+        "m5": 0,
+        "h24": 213268.16
+      },
+      "chainId": "solana",
+      "priceUsd": "0.04237",
+      "baseToken": {
+        "name": "Jurassic",
+        "symbol": "RAWR",
+        "address": "4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta"
+      },
+      "liquidity": {
+        "usd": 116447.63,
+        "base": 1371171,
+        "quote": 58344
+      },
+      "marketCap": 1093262,
+      "quoteToken": {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      },
+      "pairAddress": "6wmteHRgbJRSVPg8jaieZziKf7n1itADmWjJWQjCHcG1",
+      "priceChange": {
+        "h1": -2.96,
+        "h6": -9.79,
+        "h24": -22.18
+      },
+      "priceNative": "0.04237",
+      "pairCreatedAt": 1778846862000
+    },
+    "tweetsData": [
+      {
+        "id": "2082494533812551822",
+        "url": "https://x.com/JurassicFD/status/2082494533812551822",
+        "lang": "en",
+        "text": "$RAWR Seasonal Rounds are kicking off with plenty of points to earn.\n\nThe $RAWR Seasonal Distribution Tracking Dashboard goes live on August 10th\n\nRegister for the snapshot: \u2193 https://t.co/FvXngAtYPV",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1420337514783645698",
+          "name": "Jurassic Foundation",
+          "canDm": false,
+          "location": "Solana",
+          "userName": "JurassicFD",
+          "username": "JurassicFD",
+          "createdAt": "Wed Jul 28 10:57:50 +0000 2021",
+          "followers": 1219,
+          "following": 1069,
+          "mediaCount": 188,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1420337514783645698/1785261441",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 7704,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1811129239749775626"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2082163504908206081/3xfapvaB_normal.jpg",
+          "favouritesCount": 185785,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/FvXngAtYPV",
+              "indices": [
+                176,
+                199
+              ],
+              "display_url": "tinyurl.com/yrahj939",
+              "expanded_url": "https://tinyurl.com/yrahj939"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 15:52:42 +0000 2026",
+        "likeCount": 1305,
+        "viewCount": 5448,
+        "quoteCount": 1,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 972,
+        "bookmarkCount": 1,
+        "conversationId": "2082494533812551822",
+        "isLimitedReply": true,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2055291362673565748",
+        "url": "https://x.com/JurassicFi/status/2055291362673565748",
+        "lang": "en",
+        "text": "$RAWR is officially live on @Solana\u00a0\n\nContract address:\n\n4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta\n\n@MetaDAOProject ICO claim page:\n\nhttps://t.co/jA8tIzqXnc https://t.co/wGm93zkB1g",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2041929839297388544",
+          "name": "Jurassic Finance",
+          "canDm": false,
+          "location": "Solana",
+          "userName": "JurassicFi",
+          "username": "JurassicFi",
+          "createdAt": "Wed Apr 08 17:23:46 +0000 2026",
+          "followers": 5435,
+          "following": 10,
+          "mediaCount": 14,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2041929839297388544/1775933859",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 173,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2055291362673565748"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2042605801118777344/fYMIQPPM_normal.jpg",
+          "favouritesCount": 325,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/jA8tIzqXnc",
+              "indices": [
+                136,
+                159
+              ],
+              "display_url": "futard.io/launch/F5A6Bch\u2026",
+              "expanded_url": "https://www.futard.io/launch/F5A6BchpqGbbBABtgRycJZGkqy2i5AgVJP1VKW5AGotG"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Solana",
+              "id_str": "951329744804392960",
+              "indices": [
+                28,
+                35
+              ],
+              "screen_name": "solana"
+            },
+            {
+              "name": "MetaDAO",
+              "id_str": "1635493703996395521",
+              "indices": [
+                103,
+                118
+              ],
+              "screen_name": "MetaDAOProject"
+            }
+          ]
+        },
+        "createdAt": "Fri May 15 14:17:00 +0000 2026",
+        "likeCount": 291,
+        "viewCount": 62052,
+        "quoteCount": 25,
+        "replyCount": 103,
+        "inReplyToId": null,
+        "retweetCount": 33,
+        "bookmarkCount": 37,
+        "conversationId": "2055291362673565748",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2072025943292440973",
+        "url": "https://x.com/JurassicFi/status/2072025943292440973",
+        "lang": "en",
+        "text": "Everyone wants to be a unicorn. We\u2019re building the first dinosaur company.\n\nBelow are the details of the first dinosaur acquisition raise.\n\nThe target for the Deaton raise will be 660,000 USDC. 600,000 will go to the escrow for the seller, and 60,000 will be sent to the $RAWR treasury. \n\nThe supply of tokenized Deaton will be 1,000,000. 95% of tokens will be claimable by allocators, pro-rata, and 5% of the tokens will be sent to the $RAWR treasury.\n\nThe Deaton raise will start in July. Stay tuned for the final details.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "2041929839297388544",
+          "name": "Jurassic Finance",
+          "canDm": false,
+          "location": "Solana",
+          "userName": "JurassicFi",
+          "username": "JurassicFi",
+          "createdAt": "Wed Apr 08 17:23:46 +0000 2026",
+          "followers": 5435,
+          "following": 10,
+          "mediaCount": 14,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/2041929839297388544/1775933859",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 173,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2055291362673565748"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2042605801118777344/fYMIQPPM_normal.jpg",
+          "favouritesCount": 325,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jun 30 18:34:15 +0000 2026",
+        "likeCount": 195,
+        "viewCount": 42451,
+        "quoteCount": 15,
+        "replyCount": 38,
+        "inReplyToId": null,
+        "retweetCount": 27,
+        "bookmarkCount": 14,
+        "conversationId": "2072025943292440973",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2081100888719151274",
+        "url": "https://x.com/altcoinpediax/status/2081100888719151274",
+        "lang": "en",
+        "text": "MetaDAO is quietly building one of the strongest ecosystems in crypto.\n\nProjects that have raised over $200K on MetaDAO:\n\u2022 $CRED \u2014 $4.0M\n\u2022 $LASO \u2014 $1.0M\n\u2022 $RAWR \u2014 $200K +\n\nNotable ecosystem tokens to keep on your radar:\n\u2022 $AVICI\n\u2022 $SOLO\n\u2022 $UMBRA\n\u2022 $OMFG\n\u2022 $PAY\n\u2022 $P2P\n\u2022 $SUPER\n\u2022 $FLASH\n\nThe experiment with market-driven capital formation is just getting started.",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1813957978074370048",
+          "name": "Altcoinpedia",
+          "canDm": true,
+          "location": "",
+          "userName": "altcoinpediax",
+          "username": "altcoinpediax",
+          "createdAt": "Thu Jul 18 15:24:38 +0000 2024",
+          "followers": 34813,
+          "following": 28078,
+          "mediaCount": 628,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1813957978074370048/1755444533",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 87181,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2082125761398575325"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1957102334078787585/dtqdo0dm_normal.jpg",
+          "favouritesCount": 112538,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Sat Jul 25 19:34:51 +0000 2026",
+        "likeCount": 14,
+        "viewCount": 2024,
+        "quoteCount": 2,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 2,
+        "bookmarkCount": 8,
+        "conversationId": "2081100888719151274",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082378452972236865",
+        "url": "https://x.com/argus_ab/status/2082378452972236865",
+        "lang": "en",
+        "text": "zero tweets about $RAWR in the last 24 hours. not one mention. CT has completely ghosted it.\n\nyet i've been tracking silent KOL buys. one loaded $1.9K at $1.3M mcap with 9.0 hotness and is still 100% in. another sniper entered $2.2K at $1.6M with another 9.0 hotness and hasn't sold a token.\n\nthe bigger picture is mixed. 9 whale buys for $27.2K but 12 sells for $32.1K. net outflow $2.6K with 4 full exits. one big sniper bought $16.2K then took 60% profit on the way up.\n\nnarrative is basically just the jurassic name and rawr dino vibe. no real story or community showing up anywhere. without attention these setups usually fade quietly.\n\nsilence can mean opportunity but it can also mean it's just not catching on. i've seen both. \ud83d\udc40",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1971554532640673792",
+          "name": "argus",
+          "canDm": false,
+          "location": "",
+          "userName": "argus_ab",
+          "username": "argus_ab",
+          "createdAt": "Fri Sep 26 12:37:27 +0000 2025",
+          "followers": 254,
+          "following": 2,
+          "mediaCount": 0,
+          "automatedBy": "AlphaBlockAI",
+          "description": "",
+          "isAutomated": true,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1971554532640673792/1776959292",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 314,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2048740676909830144/bVOuOMWT_normal.jpg",
+          "favouritesCount": 298,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 08:11:26 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 228,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082378452972236865",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082172240385495148",
+        "url": "https://x.com/ThaoJennif66601/status/2082172240385495148",
+        "lang": "en",
+        "text": "RAWR the main runner is on 2.3 mln point. Send meme version of it\n\nThey tweeted ticker $RAWR https://t.co/VW6I8egOmB https://t.co/qB1fR0hZaS",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1682662760197525506",
+          "name": "Jenniaos",
+          "canDm": false,
+          "location": "",
+          "userName": "ThaoJennif66601",
+          "username": "ThaoJennif66601",
+          "createdAt": "Sat Jul 22 08:04:23 +0000 2023",
+          "followers": 170,
+          "following": 194,
+          "mediaCount": 385,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1682662760197525506/1708082753",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 957,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1802808956839956481/QnfncAxp_normal.jpg",
+          "favouritesCount": 145,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/VW6I8egOmB",
+              "indices": [
+                93,
+                116
+              ],
+              "display_url": "x.com/JurassicFi/sta\u2026",
+              "expanded_url": "https://x.com/JurassicFi/status/2072025943292440973?s=20"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jul 28 18:32:01 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 1435,
+        "quoteCount": 2,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082172240385495148",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082362304088187205",
+        "url": "https://x.com/Keepbuildin_/status/2082362304088187205",
+        "lang": "en",
+        "text": "Do I really need to spell it out for you?\n\nIt's Futarchy meme season.\n\n$RAWR $FUTARDIO $UMBRA $AVICI $META etc https://t.co/ZbWJiqNNlC",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1914284380438384640",
+          "name": "Futarchy Meme",
+          "canDm": false,
+          "location": "Solana",
+          "userName": "Keepbuildin_",
+          "username": "Keepbuildin_",
+          "createdAt": "Mon Apr 21 11:46:22 +0000 2025",
+          "followers": 18,
+          "following": 46,
+          "mediaCount": 20,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1914284380438384640/1782551158",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 176,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2081484739307802644"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2070796303974518785/EAmFi71u_normal.jpg",
+          "favouritesCount": 177,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 07:07:16 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 176,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082362304088187205",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082398224909042049",
+        "url": "https://x.com/HotcoinGlobal/status/2082398224909042049",
+        "lang": "en",
+        "text": "2021: NFTs \n2024: Memecoins \n2025: Tokenized RWAs \n2026: Tokenized Dinosaurs \ud83e\udd96\n\n\ud83e\udd96 1,000,000 $DEATON\n\u2022 95% claimable by allocators (pro rata)\n\u2022 5% allocated to the $RAWR treasury\n\nCrypto never disappoints \ud83d\udfe9 https://t.co/41Fw9p1cfO",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1065817584396713984",
+          "name": "Hotcoin \ud83d\udfe9",
+          "canDm": true,
+          "location": "Dubai, United Arab Emirates",
+          "userName": "HotcoinGlobal",
+          "username": "HotcoinGlobal",
+          "createdAt": "Fri Nov 23 04:01:28 +0000 2018",
+          "followers": 176702,
+          "following": 1966,
+          "mediaCount": 10017,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1065817584396713984/1784357830",
+          "isTranslator": false,
+          "verifiedType": "Business",
+          "statusesCount": 17497,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [
+            "2080304521377427628"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2009513949356806151/nSNSWvD1_normal.jpg",
+          "favouritesCount": 13135,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 09:30:00 +0000 2026",
+        "likeCount": 11,
+        "viewCount": 2552,
+        "quoteCount": 0,
+        "replyCount": 4,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082398224909042049",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082156990961451372",
+        "url": "https://x.com/dex_kolwatcher/status/2082156990961451372",
+        "lang": "en",
+        "text": "Detect PAID DEXScreener: $RAWR \ud83d\udc47\n                                                                     METEORA SOLANA\nCA: 4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta\n\nVolumeBuy 24H:  $0  | VolumSell 24H:  $0 \nLiquid:  $13 | MC:  $805,029\n\nCheck Chart Buy \ud83d\udc49 https://t.co/EEII90BPr4",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "3001310558",
+          "name": "DEX Signals",
+          "canDm": false,
+          "location": "America",
+          "userName": "dex_kolwatcher",
+          "username": "dex_kolwatcher",
+          "createdAt": "Thu Jan 29 13:19:42 +0000 2015",
+          "followers": 3908,
+          "following": 36,
+          "mediaCount": 132,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3001310558/1745134454",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 18567,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2066807661983830016/HR12c_Gf_normal.jpg",
+          "favouritesCount": 318,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/EEII90BPr4",
+              "indices": [
+                257,
+                280
+              ],
+              "display_url": "gmgn.ai/sol/token/7N9j\u2026",
+              "expanded_url": "https://gmgn.ai/sol/token/7N9jO4ib_4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jul 28 17:31:25 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 498,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082156990961451372",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082566609319678409",
+        "url": "https://x.com/Bitcoin_N3ws/status/2082566609319678409",
+        "lang": "en",
+        "text": "\ud83e\ude99 solana:4K1m7gAMDKzrxQn68yuZAd767w57Fw7Ykw69dG3umeta\n\nAped this JurassicFi token, yesterday they gave an update about first ever Tokenized dinosaur, so i think it might become a good catalyst to pump the coin as well. \n\n$RAWR https://t.co/5tXWdHkXDX",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1359578361266380800",
+          "name": "Bitcoin News \ud83d\udc0b",
+          "canDm": true,
+          "location": "",
+          "userName": "Bitcoin_N3ws",
+          "username": "Bitcoin_N3ws",
+          "createdAt": "Wed Feb 10 19:02:22 +0000 2021",
+          "followers": 2391,
+          "following": 2038,
+          "mediaCount": 2549,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1359578361266380800/1711551669",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 5952,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2062122209192169849"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1884739186776784896/AUWmbony_normal.jpg",
+          "favouritesCount": 9779,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 20:39:06 +0000 2026",
+        "likeCount": 1,
+        "viewCount": 131,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082566609319678409",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082174641825632341",
+        "url": "https://x.com/leakmealpha/status/2082174641825632341",
+        "lang": "en",
+        "text": "So, Solana is basically shilling $2m mcap $RAWR and everyone is so slow to realize that?",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1783900174630150145",
+          "name": "leak",
+          "canDm": true,
+          "location": "Decentralized",
+          "userName": "leakmealpha",
+          "username": "leakmealpha",
+          "createdAt": "Fri Apr 26 16:45:33 +0000 2024",
+          "followers": 14266,
+          "following": 215,
+          "mediaCount": 4222,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1783900174630150145/1783762170",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 4455,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2075946184913322221"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/2075875000406417409/omMdmyOc_normal.jpg",
+          "favouritesCount": 272,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jul 28 18:41:34 +0000 2026",
+        "likeCount": 11,
+        "viewCount": 2755,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 1,
+        "conversationId": "2082174641825632341",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "1755207940791730479",
+        "url": "https://x.com/DexTrending/status/1755207940791730479",
+        "lang": "en",
+        "text": "Today's Top $SOL Dextools Daily Gainers:\n\n$DONKI Up 29,069% @DonkiSol \n\n$RAWR Up 1,918% @RoarKittyCoin \n\n$FIRE Up 366% @doginphire \n\n#Solana #DextoolsTrending #MemeCoins https://t.co/Iq7b2JWgov",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1497423382475952128",
+          "name": "DexTrending",
+          "canDm": true,
+          "location": "",
+          "userName": "DexTrending",
+          "username": "DexTrending",
+          "createdAt": "Sat Feb 26 04:09:02 +0000 2022",
+          "followers": 19905,
+          "following": 86,
+          "mediaCount": 806,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1497423382475952128/1753352816",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 1424,
+          "isBlueVerified": false,
+          "pinnedTweetIds": [],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1623142744888573952/IxWsqd6j_normal.jpg",
+          "favouritesCount": 455,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [
+            {
+              "text": "Solana",
+              "indices": [
+                133,
+                140
+              ]
+            },
+            {
+              "text": "DextoolsTrending",
+              "indices": [
+                141,
+                158
+              ]
+            },
+            {
+              "text": "MemeCoins",
+              "indices": [
+                159,
+                169
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "name": "Donki",
+              "id_str": "1896312051116752896",
+              "indices": [
+                60,
+                69
+              ],
+              "screen_name": "DonkiSol"
+            },
+            {
+              "name": "Roaring Kitty",
+              "id_str": "1754803633496162304",
+              "indices": [
+                88,
+                102
+              ],
+              "screen_name": "RoarKittyCoin"
+            },
+            {
+              "name": "Doginphire",
+              "id_str": "1499932953522360320",
+              "indices": [
+                119,
+                130
+              ],
+              "screen_name": "doginphire"
+            }
+          ]
+        },
+        "createdAt": "Wed Feb 07 12:32:37 +0000 2024",
+        "likeCount": 52,
+        "viewCount": 16471,
+        "quoteCount": 2,
+        "replyCount": 309,
+        "inReplyToId": null,
+        "retweetCount": 51,
+        "bookmarkCount": 3,
+        "conversationId": "1755207940791730479",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082175120890569216",
+        "url": "https://x.com/whalewatchalert/status/2082175120890569216",
+        "lang": "en",
+        "text": "A ANSEM whale just bought $6.48K of $RAWR at $1.95M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 186625,
+          "following": 100,
+          "mediaCount": 33697,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 160884,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5643,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jul 28 18:43:28 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 8143,
+        "quoteCount": 0,
+        "replyCount": 1,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082175120890569216",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2059436279884902502",
+        "url": "https://x.com/vukan0x/status/2059436279884902502",
+        "lang": "en",
+        "text": "OFFICIAL: @JurassicFi is the most successful @MetaDAOProject raise by ICO return to date\n\ntwo locked in balkan dudes governed by futarchy going against the world\n\nwe will make all the owners proud\n\nthe ticker is $RAWR \ud83e\udd95 https://t.co/pIOVEB6M2i",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "3326632961",
+          "name": "vukan (blkn/acc)",
+          "canDm": true,
+          "location": "telegram: @vukan0x",
+          "userName": "vukan0x",
+          "username": "vukan0x",
+          "createdAt": "Mon Jun 15 09:58:33 +0000 2015",
+          "followers": 2913,
+          "following": 534,
+          "mediaCount": 1469,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/3326632961/1783909088",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 13928,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2075685051229208903"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1903451197563932672/11R_Nerw_normal.jpg",
+          "favouritesCount": 72376,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "Jurassic Finance",
+              "id_str": "2041929839297388544",
+              "indices": [
+                10,
+                21
+              ],
+              "screen_name": "JurassicFi"
+            },
+            {
+              "name": "MetaDAO",
+              "id_str": "1635493703996395521",
+              "indices": [
+                45,
+                60
+              ],
+              "screen_name": "MetaDAOProject"
+            }
+          ]
+        },
+        "createdAt": "Wed May 27 00:47:26 +0000 2026",
+        "likeCount": 121,
+        "viewCount": 15962,
+        "quoteCount": 2,
+        "replyCount": 20,
+        "inReplyToId": null,
+        "retweetCount": 8,
+        "bookmarkCount": 5,
+        "conversationId": "2059436279884902502",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082303722634510635",
+        "url": "https://x.com/supercontraa/status/2082303722634510635",
+        "lang": "en",
+        "text": "$Rawr is having its moment \nGood frontrun",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1639665860569882624",
+          "name": "Contra",
+          "canDm": false,
+          "location": "Galuga archipelago",
+          "userName": "supercontraa",
+          "username": "supercontraa",
+          "createdAt": "Sat Mar 25 16:29:54 +0000 2023",
+          "followers": 7045,
+          "following": 570,
+          "mediaCount": 791,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 7255,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1939264254391074932"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1639667165296222208/-GhN_nWS_normal.jpg",
+          "favouritesCount": 12932,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 03:14:29 +0000 2026",
+        "likeCount": 14,
+        "viewCount": 2458,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 1,
+        "bookmarkCount": 1,
+        "conversationId": "2082303722634510635",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082323237141098999",
+        "url": "https://x.com/whalewatchalert/status/2082323237141098999",
+        "lang": "en",
+        "text": "KOL cryptojuggler3 just bought $4K of $RAWR at $1.94M MC \ud83e\udde0",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 186625,
+          "following": 100,
+          "mediaCount": 33697,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 160884,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5643,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Wed Jul 29 04:32:02 +0000 2026",
+        "likeCount": 4,
+        "viewCount": 7772,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 1,
+        "bookmarkCount": 0,
+        "conversationId": "2082323237141098999",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "1762974129316098113",
+        "url": "https://x.com/apex_ether/status/1762974129316098113",
+        "lang": "en",
+        "text": "The last @OnChainDinos prize was never claimed, Lets go again! \ud83d\udc47\n\n- Follow @apex_ether \n- Retweet\n- Give me a rawr in the comments \u26d3\ufe0f\ud83e\udd96\n\n1 Onchain Dino + 1 $RAWR token\n\nhttps://t.co/hyetgsGu2I\n\nhttps://t.co/lxPlwstrHO\n\nWinner, repicked in 24 hours! \u231b\ufe0f https://t.co/4MLSDe1cxl",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1052847943185661952",
+          "name": "Apex",
+          "canDm": true,
+          "location": "Mempool",
+          "userName": "apex_ether",
+          "username": "apex_ether",
+          "createdAt": "Thu Oct 18 09:04:45 +0000 2018",
+          "followers": 8848,
+          "following": 1449,
+          "mediaCount": 952,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1052847943185661952/1696625589",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 10453,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "1875313773600502040"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1743420564436324352/eY2NN3QI_normal.jpg",
+          "favouritesCount": 17134,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [
+            {
+              "url": "https://t.co/hyetgsGu2I",
+              "indices": [
+                168,
+                191
+              ],
+              "display_url": "opensea.io/assets/base/0x\u2026",
+              "expanded_url": "https://opensea.io/assets/base/0xd4c5292b9689238f0a51c8505b1d1d6714ce95a0/351"
+            },
+            {
+              "url": "https://t.co/lxPlwstrHO",
+              "indices": [
+                193,
+                216
+              ],
+              "display_url": "dexscreener.com/base/0x3447acc\u2026",
+              "expanded_url": "https://dexscreener.com/base/0x3447accd4b8e735329d1065244aad2ed630f0122"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": [
+            {
+              "name": "OnChain Dinos",
+              "id_str": "1742120782417805312",
+              "indices": [
+                9,
+                22
+              ],
+              "screen_name": "OnChainDinos"
+            },
+            {
+              "name": "Apex",
+              "id_str": "1052847943185661952",
+              "indices": [
+                75,
+                86
+              ],
+              "screen_name": "apex_ether"
+            }
+          ]
+        },
+        "createdAt": "Wed Feb 28 22:52:41 +0000 2024",
+        "likeCount": 158,
+        "viewCount": 10269,
+        "quoteCount": 3,
+        "replyCount": 249,
+        "inReplyToId": null,
+        "retweetCount": 139,
+        "bookmarkCount": 0,
+        "conversationId": "1762974129316098113",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      },
+      {
+        "id": "2082171704189526170",
+        "url": "https://x.com/whalewatchalert/status/2082171704189526170",
+        "lang": "en",
+        "text": "A JIMOTHY whale just bought $3.68K of $RAWR at $2.3M MC \ud83d\udc33",
+        "media": {
+          "mediaUrl": "",
+          "mediaPreview": ""
+        },
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "tweeter": {
+          "id": "1854960382097735681",
+          "name": "Whale Watch by Moby",
+          "canDm": true,
+          "location": "",
+          "userName": "whalewatchalert",
+          "username": "whalewatchalert",
+          "createdAt": "Fri Nov 08 18:53:25 +0000 2024",
+          "followers": 186625,
+          "following": 100,
+          "mediaCount": 33697,
+          "automatedBy": null,
+          "description": "",
+          "isAutomated": false,
+          "unavailable": false,
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1854960382097735681/1741300018",
+          "isTranslator": false,
+          "verifiedType": null,
+          "statusesCount": 160884,
+          "isBlueVerified": true,
+          "pinnedTweetIds": [
+            "2023499421472690465"
+          ],
+          "publicImageUrl": "https://pbs.twimg.com/profile_images/1897776430341083140/aY2MwRYH_normal.jpg",
+          "favouritesCount": 5643,
+          "possiblySensitive": false,
+          "hasCustomTimelines": true,
+          "withheldInCountries": []
+        },
+        "entities": {
+          "urls": [],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "createdAt": "Tue Jul 28 18:29:53 +0000 2026",
+        "likeCount": 2,
+        "viewCount": 7522,
+        "quoteCount": 0,
+        "replyCount": 0,
+        "inReplyToId": null,
+        "retweetCount": 0,
+        "bookmarkCount": 0,
+        "conversationId": "2082171704189526170",
+        "isLimitedReply": false,
+        "inReplyToUserId": null,
+        "inReplyToUsername": null
+      }
+    ],
+    "securityData": null,
+    "holdersData": null,
+    "marketData": null,
+    "createdAt": "2026-10-29T08:47:33.212Z",
+    "updatedAt": "2026-10-29T08:47:33.212Z",
+    "conversation": {
+      "id": "cmvtavmfw0006i607rl0qpruh",
+      "reportId": "cmvtavmfw0005i607g95732yl",
+      "createdAt": "2026-10-29T08:47:33.212Z",
+      "updatedAt": "2026-10-29T08:57:50.508Z",
+      "messages": [
+        {
+          "id": "cmvtb8p7i0006l108h0zuu994",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "user",
+          "content": "RAWR fell 22.18% in 24 hours despite the report citing MetaDAO recognition and whale accumulation at higher prices. With only $116K in pool liquidity, what orderflow evidence would resolve whether this was aggressive selling or thin-book price impact? The excerpt gives no 24-hour volume or buy/sell transaction counts\u2014can you quantify the limitation rather than infer a flow imbalance?",
+          "timestamp": "2026-10-29T08:57:42.209Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8q8m000ql207uivvk6rq",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "assistant",
+          "content": "The excerpt does not provide 24-hour volume, buy/sell counts, or trade-size data, so it cannot establish a transaction-count imbalance or calculate volume-to-liquidity turnover. The supported facts are a 22.18% decline and $116K pool liquidity. Turnover would be 24-hour volume \u00f7 $116K; without volume, it is uncomputable. The decline alone is consistent with either persistent selling or a comparatively small net sell flow moving a shallow pool.",
+          "timestamp": "2026-10-29T08:57:43.810Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8rw8000ul2079x3ojj6y",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "user",
+          "content": "The report implies about 25.8M RAWR from FDV/price, while the Deaton plan calls for 1,000,000 Deaton tokens, of which 950,000 are allocator-claimable and 50,000 go to treasury; the acquisition target is 660,000 USDC, including 60,000 for the RAWR treasury. Quantify the potential dilution and distinguish Deaton-token issuance from RAWR supply dilution. What contract or unlock data would be needed before calling the treasury allocation value-accretive?",
+          "timestamp": "2026-10-29T08:57:44.997Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8stp0008l108azwogk7x",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "assistant",
+          "content": "The 1,000,000 Deaton tokens equal about 3.88% of the implied 25.8M RAWR supply, but they are a separate token and therefore do not, by themselves, dilute RAWR supply. The 50,000 Deaton tokens are 5% of Deaton supply; the stated 60,000 USDC treasury allocation is 9.09% of the 660,000 USDC target. The excerpt gives no RAWR mint authority, freeze authority, upgradeability, vesting, or unlock schedule, nor evidence that treasury proceeds accrue to RAWR holders. Those details and the acquisition\u2019s enforceable ownership/revenue terms are necessary to assess dilution and value capture.",
+          "timestamp": "2026-10-29T08:57:47.275Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8tum0010l20795p8h6hk",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "user",
+          "content": "Given the reported 22.18% 24-hour price decline, $116K liquidity, and $2.6K net whale outflow with 4 full exits, specify falsifiable on-chain thresholds over the next 24 hours that would distinguish accumulation from distribution: include adverse slippage in bps, LP depth depletion, and whale retention. Which thresholds are proposed tests, not facts reported here?",
+          "timestamp": "2026-10-29T08:57:48.477Z",
+          "followupKind": null
+        },
+        {
+          "id": "cmvtb8uoz0014l207c6gts2nn",
+          "conversationId": "cmvtavmfw0006i607rl0qpruh",
+          "role": "assistant",
+          "content": "The excerpt reports the decline, liquidity, whale outflow, and four exits, but no slippage, LP-range/tick, or wallet-retention measurements. Proposed tests\u2014not reported facts\u2014are: accumulation if a $10K market buy causes no more than 300 bps adverse slippage, executable depth within \u00b12% of mid remains at least 80% of its starting level, and at least 75% of the identified whale cohort\u2019s starting RAWR balance remains after 24 hours. Distribution would be indicated if slippage exceeds 500 bps, depth falls below 50%, or cohort retention falls below 50%. Measure these against the same pool and wallet cohort; values between the bands are inconclusive.",
+          "timestamp": "2026-10-29T08:57:49.652Z",
+          "followupKind": null
+        }
+      ]
+    }
+  }
+}
